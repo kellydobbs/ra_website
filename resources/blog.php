@@ -87,7 +87,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 			<br>
 
-<!-- Blog 1 -->
+
+
+
+<!-- title and link -->
+<h2><a href="market-research-proposal.php">How to Write a Winning Market Research Proposal</a></h2>			
+
+<p class="green-ques"> <small> January 12, 2021</small> </p> 
+
+<a href="market-research-proposal.php"><img src="/_img/market-research-proposal-thumb.png" class="blog" alt="writting a market research proposal"></a>
+
+<p>A market research proposal is the document a company uses to map out its future. It unites company stakeholders in joint discovery of information so that everyone knows who and what really matters for an information gathering project. This is how to write a winning proposal that will get your whole team onboard.
+ </p>
+ 
+<a href="market-research-proposal.php" class="indus-section">Read More</a>
+		  <br>	
+          <br>
+          <br>
+
 <h2><a href="secondary-market-research.php">11 Secondary Market Research Opportunities</a></h2>			
 
 <p class="green-ques"> <small> November 5, 2020</small> </p> 
