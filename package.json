@@ -1,0 +1,21 @@
+{
+  "name": "public_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^3.3.1",
+    "es6-shim": "^0.33.13",
+    "express": "^4.16.3",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-alpha.14",
+    "videojs": "^1.0.0",
+    "zone.js": "^0.5.8"
+  }
+}
