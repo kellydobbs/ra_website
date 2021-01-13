@@ -12,7 +12,7 @@
   <meta name="description" content="Research America provides healthcare market research to help decision-makers understand the current situation and how it might potentially change in the medical field.">
  <meta name="keywords" content="healthcare market research, medical market research, healthcare marketing research, market research company">
 <meta name="robots" content="index,follow">
-<link rel="canonical" href="https://researchamericainc.com/industries/healthcare-industry.php">
+<link rel="canonical" href="https://researchamericainc.com/industries/financial-legal-industry.php">
 
   <link rel="stylesheet" href="../_js/owl-carousel/owl.carousel.css">
   <link rel="stylesheet" href="../_js/owl-carousel/owl.theme.css">

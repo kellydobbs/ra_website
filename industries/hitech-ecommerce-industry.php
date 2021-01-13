@@ -11,7 +11,7 @@
   <meta name="description" content="Research America's technology market research has helped companies target new markets, enhance products for clients, and increase sales opportunities.">
  <meta name="keywords" content="market research company">
 <meta name="robots" content="index,follow">
-<link rel="canonical" href=" https://researchamericainc.com/industries/healthcare-industry.php ">
+<link rel="canonical" href="https://researchamericainc.com/industries/hitech-ecommerce-industry.php">
 
 
   <link rel="stylesheet" href="../_js/owl-carousel/owl.carousel.css">

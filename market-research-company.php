@@ -17,7 +17,7 @@
     
 <meta name="robots" content="index,follow">
 
-<link rel="canonical" href="http://researchamericainc.com/market-research-company.php">
+<link rel="canonical" href="https://researchamericainc.com/market-research-company.php">
 	
 	
 	<link rel="stylesheet" href="_js/owl-carousel/owl.carousel.css">

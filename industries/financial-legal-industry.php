@@ -8,7 +8,7 @@
   <meta name="description" content="Research America’s expertise in financial market research gives businesses in the finance industry the ability to ensure success and profitability.">
  <meta name="keywords" content="financial market research company">
 <meta name="robots" content="index,follow">
-<link rel="canonical" href="https://researchamericainc.com/industries/healthcare-industry.php">
+<link rel="canonical" href="https://researchamericainc.com/industries/financial-legal-industry.php">
 
 
   <link rel="stylesheet" href="../_js/owl-carousel/owl.carousel.css">
