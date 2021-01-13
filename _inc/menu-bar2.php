@@ -721,7 +721,7 @@
 
 					<li>
 
-						<a href="../industries/retail-industry.php">Retail & Consumer </a>
+						<a href="../industries/retail-market-research.php">Retail & Consumer </a>
 
 					</li>
                     
