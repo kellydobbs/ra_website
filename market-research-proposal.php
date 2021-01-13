@@ -72,29 +72,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="inside">
 
 <h1>How to Write a Winning Market Research Proposal</h1>
-<p>&nbsp;</p>
+<br>
 <p>The current pandemic may have curbed our travel, but that doesn’t mean we don’t all still know the value of having good maps and a suggested itinerary. Indeed, a solid plan of action makes any endeavor — whether it be a fun-filled vacation, an educational goal or a <a href="https://smallbusiness.chron.com/planning-important-74858.html">professional enterprise</a> — more focused, less stressful and, thus, more effective. It doesn’t matter if life interrupts our plans (“Hello, COVID-19!”); in fact, interruptions are a given, but we still know that good plans prepare us for <em>whatever</em> lies ahead. They help us to define our priorities and clarify our needs so that we can better manage our resources. The result: we are better prepared to handle uncertainties and more formidable and more productive in whatever we choose to do.</p>
-<p>&nbsp;</p>
+<br>
 <p>For businesses, good plans are based on good research. More than good products and services, <a href="https://researchamericainc.com/resources/why-hire-a-market-research-firm.php">good information</a> sets profitable companies apart from their competition, allowing them to prepare for — <em>and plan for</em> — success. This is why market research proposals are so important. A market research proposal is the document a company uses to map out its future. It unites company stakeholders in joint discovery of information so that everyone knows who and what really matters. In short, a market research proposal outlines the specifics of an information gathering project. This is how to write a winning one:</p>
-<p>&nbsp;</p>
+<br>
 <h2><span class="med-link">Keep It Brief</span></h2>
 <p>A market research proposal is sometimes called a “market research brief” because it's just that: brief. It should also be clearly written with no unusual acronyms or industry jargon and only the necessary points to underscore the overall research objective (as well as how it will be addressed) highlighted.</p>
-<p>&nbsp;</p>
+<br>
 <h2><span class="med-link">Include a Company Overview</span></h2>
 <p>The beginning of the proposal should include a short overview of the company, including such details as its mission and vision statements; market performance history; industry facts, figures and trends; competitor data points and any other past research findings that shed light on the issue(s) at hand and why further research is needed.</p>
-<p>&nbsp;</p>
+<br>
 <h2><span class="med-link">Clearly Define the Objective</span></h2>
 <p>The research objective is the most important part of the proposal, as it clearly outlines the information a company needs, and, thus, defines the overall goal of the project. It’s basically the question a company wants answered and needs to be specific and measurable (but not necessarily<a href="https://smallbusiness.chron.com/qualitative-quantitative-research-similarities-58286.html" rel="noopener" target="_blank"><quantitative/a>) with a desired outcome.</p>
-<p>&nbsp;</p>
+<br>
 <h2><span class="med-link">Explain the Research Methodology</span></h2>
 <p>Of course, a market research proposal should also include a section explaining how the information to address the research objective will be obtained. Details about data collection (including the definition of the target audience, <a href="https://smallbusiness.chron.com/planning-important-74858.html" rel="noopener" target="_blank">sample</a> selection criteria and proposed methodology) need to be clarified (since specific demographic, technological, economic, political and even environmental concerns inevitably impact research outcomes) and should be evident with reasons for their use thoroughly transparent.</p>
-<p>&nbsp;</p>
+<br>
 <h2><span class="med-link">List Expected Outcomes</span></h2>
 <p>Finally, a good market research proposal needs to include a list of expected outcomes. An estimation of budget concerns, as well as a timeline for specific research milestones and project completion, should be listed here, along with an overview of projected deliverables to be anticipated. This helps both company executives and researchers to remain focused and on point.</p>
-<p>&nbsp;</p>
+<br>
 <h2><span class="med-link">Ready to Learn More?</span></h2>
 <p>A winning market research proposal isn’t just the one that seals the deal on a research project. It’s the one that provides actionable insights for companies and researchers alike. Following a determined set of standards, a winning market research proposal has the potential to garner data that can be used to inform better business decisions. Our <a href="https://researchamericainc.com/about-us/leader-in-market-research.php">team at Research America</a> has the expertise needed to craft winning market research proposals that yield meaningful results for all involved. Please <a href="https://researchamericainc.com/">contact us</a> to learn more.</p>
-<p>&nbsp;</p>
+<br>
 </div>
 </div>
 
