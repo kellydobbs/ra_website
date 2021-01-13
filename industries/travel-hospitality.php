@@ -8,8 +8,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>Travel and Hospitality Market Research | Research America</title>
- <meta name="description" content="Our travel and hospitality market research services uncover valuable consumer insights for focused growth. Put our marketing research services to work for your organization!">
+ <title>Tourism Market Research | Research America</title>
+ <meta name="description" content="Tourism market research was the key to one airline strengthening their relationship with customers, driving brand loyalty, and increasing sales through ads.">
       <meta name="keywords" content="travel and hospitality market research, travel industry market research, hospitality industry market research, research america">
 
 <meta name="robots" content="index,follow">
@@ -68,7 +68,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row" id="page-header">
 
 
-	<img src="../_img/pghead-Industries.png"  alt="Utilities Market Research"/>
+	<img src="../_img/pghead-Industries.png"  alt="Tourism Market Research"/>
 		<?php include("../_inc/menu-bar2.php"); ?>
 
 </div>
@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="inner">
 	
-	<h1>Travel & Hospitality Market Research</h1>
+	<h1>Tourism Market Research</h1>
 
 		<h2>Uncovering optimization
             opportunities to drive
@@ -101,7 +101,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         costs carriers was entering major markets with
          consumer sentiment towards any carrier at an all time low.</p>
         <p>New creative was needed to revamp the brand image and strengthen the bond with
-          consumers.</p>
+          consumers, so they turned to Research America to conduct insightful tourism market research.</p>
         <h2>Objective:</h2>
         <p>To evaluate newly developed TV spots, diagnose executions to understand
           what is driving / inhibiting performance, and to uncover optimization opportunities to drive ad effectiveness.</p>

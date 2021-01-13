@@ -8,8 +8,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>Alternative and Renewable Energy Market Research | Research America</title>
-  <meta name="description" content="Alternative and renewable energy market research. Gain insights on consumer awareness, attitudes, and willingness to adopt renewable energy sources.">
+ <title>Renewable Energy Market Research | Research America</title>
+  <meta name="description" content="When a company wanted to pursue renewable energy market research, they turned to Research America. They gained vaulable insight on homeowners' awareness & attitudes.">
     <meta name="keywords" content="alternative energy market research, renewable energy market research, market research company, research america">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href=" https://researchamericainc.com/industries/alternative-energy-industry.php ">
@@ -67,7 +67,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row" id="page-header">
 
 
-	<img src="../_img/pghead-Industries.png"  alt="Market Research For Utility Companies"/>
+	<img src="../_img/pghead-Industries.png"  alt="Market Research For Revewable Energy Companies"/>
 		<?php include("../_inc/menu-bar2.php"); ?>
 
 </div>
@@ -83,8 +83,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="content">
 
 	<div class="inner">
-<h1> Alternative &amp; Renewable Energy Market Research</h1>
-		<p>A new entrant in the national renewable energy arena wanted to gain insight from homeowners on their awareness, attitudes and willingness to adopt renewable energy systems. Using GreenTrak™ Omnibus, insight was gained regarding alternative energy as a viable source, willingness to invest in alternate energy technologies, and the dynamics accelerating adoption of renewable energy attitudes. Using this strategic insight, marketing materials, including targeted print ads, an interactive web-site and supporting PR initiatives, were deployed to advance, educate and inform, laying the foundation for prospecting and sales.</p>
+<h1>Renewable Energy Market Research</h1>
+		<p>A new entrant in the national renewable energy arena wanted to gain insight from homeowners on their awareness, attitudes and willingness to adopt renewable energy systems by conducting renewable energy market research. Using GreenTrak™ Omnibus, insight was gained regarding alternative energy as a viable source, willingness to invest in alternate energy technologies, and the dynamics accelerating adoption of renewable energy attitudes. Using this strategic insight, marketing materials, including targeted print ads, an interactive web-site and supporting PR initiatives, were deployed to advance, educate and inform, laying the foundation for prospecting and sales.</p>
 
 		
 

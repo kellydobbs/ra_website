@@ -7,9 +7,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Market Research for Tech & Ecommerce</title>
-  <meta name="description" content="Research America provides healthcare market research to help decision-makers understand the current situation and how it might potentially change.">
- <meta name="keywords" content="healthcare market research, Market Research For Healthcare, healthcare marketing research, market research company">
+<title>Technology Market Research | Research America</title>
+  <meta name="description" content="Research America's technology market research has helped companies target new markets, enhance products for clients, and increase sales opportunities.">
+ <meta name="keywords" content="market research company">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href=" https://researchamericainc.com/industries/healthcare-industry.php ">
 
@@ -66,7 +66,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row" id="page-header">
 
 
-	<img src="../_img/pghead-Industries.png"  alt="Healthcare Market Research"/>
+	<img src="../_img/pghead-Industries.png"  alt="Technology Market Research"/>
 		<?php include("../_inc/menu-bar2.php"); ?>
 
 </div>
@@ -76,10 +76,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row" id="main-page-content">
 
 <div class="inside">		
-		<h1>Market Research for Tech & Ecommerce</h1>
+		<h1>Technology Market Research</h1>
 		<p>A global provider of integrated technology products and services wanted to understand how their services were perceived by end-users to further focus new product development initiatives, thereby exposing new revenue channels.</p> 
 
-		<p>Through the In Touch Now™ program, benchmark measurements were established in several key product and service areas for future tracking. Equipped with this ongoing direct feedback from users, the company has been able to target new markets, enhance products for current clients, and increase sales opportunities through direct testimonials. </p> 
+		<p>Through the In Touch Now™ program, benchmark measurements were established in several key product and service areas for future tracking. Equipped with this ongoing direct feedback from users, the company has been able to target new markets, enhance products for current clients, and increase sales opportunities through direct testimonials thanks to their technology market research initiatives. </p> 
 		
 		<p><strong>Focused Growth</strong></p>
 		

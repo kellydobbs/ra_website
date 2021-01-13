@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Financial and Legal Industry Market Research | Research America</title>
-  <meta name="description" content="Research America provides healthcare market research to help decision-makers understand the current situation and how it might potentially change.">
- <meta name="keywords" content="healthcare market research, medical market research, healthcare marketing research, market research company">
+<title>Financial Market Research | Legal Services | Research America</title>
+  <meta name="description" content="Research America’s expertise in financial market research gives businesses in the finance industry the ability to ensure success and profitability.">
+ <meta name="keywords" content="financial market research company">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://researchamericainc.com/industries/healthcare-industry.php">
 
@@ -63,7 +63,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row" id="page-header">
 
 
-	<img src="../_img/pghead-Industries.png"  alt="Financial Legal Industry"/>
+	<img src="../_img/pghead-Industries.png"  alt="Financial Market Research"/>
 		<?php include("../_inc/menu-bar2.php"); ?>
 
 </div>
@@ -76,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row" id="industry-row">
 
 <div class="content">
-	<h1>Financial & Legal Industry Market Research</h1>
+	<h1>Legal Services & Financial Market Research</h1>
 
 	<div class="inner">
 
