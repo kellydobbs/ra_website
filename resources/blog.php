@@ -90,7 +90,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<!-- title and link -->
 <h2><a href="market-research-proposal.php">How to Write a Winning Market Research Proposal</a></h2>			
 
 <p class="green-ques"> <small> January 12, 2021</small> </p> 
