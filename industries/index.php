@@ -258,7 +258,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<p>Gain insight on changing behaviors, media habits, the decision process and brand perceptions to reveal strategic refinements for product development, marketing &amp; advertising initiatives...</p>
 
-				<a href="retail-industry.php" class="read-more">Read More</a>
+				<a href="retail-market-research.php" class="read-more">Read More</a>
 
 			</div>
 
@@ -310,7 +310,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<p>Faced with trends such as the advent of automotive subscription models, new sales models, and consumer and regulators&rsquo; demand for improved sustainability, the automotive industry needs accurate and timely automotive market research to inform decisions...</p>
 
-				<a href="automotive-industry.php" class="read-more">Read More</a>
+				<a href="automotive-market-research.php" class="read-more">Read More</a>
 
 			</div>
 
