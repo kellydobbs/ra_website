@@ -791,6 +791,9 @@
 		    <li>
 			<a href="../industries/hitech-ecommerce-industry.php">Hi-Tech & Ecommerce </a>
 			</li> 
+			<li>
+			<a href="../industries/alternative-energy-industry.php">Alternative Energy</a>
+			</li> 
 			
 		</ul>
 
