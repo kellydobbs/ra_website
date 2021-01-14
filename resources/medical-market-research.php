@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h2 class="med-link">Care is Becoming Community-Based</h2>
 <p>The Affordable Healthcare Act has expanded healthcare to a more <a href="https://www.forbes.com/sites/glennllopis/2015/07/13/the-cultural-demographic-shift-is-changing-the-business-of-healthcare/?sh=648090bf33c5" target="_blank">diverse group of people,</a> and these people are wanting services — as well as caregivers — that represent and cater to their unique experiences. As a result, medical market researchers need to find ways to identify and connect with different demographics in order to garner insights that fully inform good medical business decisions.</p>
 <br>
-<h2>Patient Reported Outcomes are More Important Than Ever</h2>
+<h2 class="med-link">Patient Reported Outcomes are More Important Than Ever</h2>
 <p>Quality care is no longer based solely on the opinions of the physicians and clinicians who provide it. Nor is it only the product of traditional care services. Instead, good care is becoming increasingly patient-centric. Not only do patients have more to say about their level of care, they have more control over how they receive it. (COVID-19 has made sure of that, allowing telemedicine solutions to move from the periphery to the forefront of quality care resources.) This means that elements of the patient experience will need to be monitored and reviewed so that companies can improve upon their products and services based on patient views (not just professional ones).</p>
 <br>
 <h2 class="med-link">People Management is Key</h2>
