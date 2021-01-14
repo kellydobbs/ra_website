@@ -87,6 +87,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 			<br>
 
+<h2><a href="medical-market-research.php">The Latest Medical Market Research Shows A Huge Cultural Shift</a></h2>			
+
+<p class="green-ques"> <small> January 14, 2021</small> </p> 
+
+<a href="medical-market-research.php"><img src="/_img/medical-market-research-thumb.png" class="blog" alt="medical market research trends"></a>
+
+<p> Our latest market research show a cultural shift is currently at play within the healthcare industry. The changing demographics and systems of management are improving patient outcomes.
+ </p>
+ 
+<a href="medical-market-research.php" class="indus-section">Read More</a>
+		  <br>	
+          <br>
+          <br>
 
 
 
@@ -199,51 +212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		 <a href="3-market-research-bolsters.php" class="indus-section">Read More</a>
 			
 			
-		  <br>	<br>		
-
-
-			
-			
-		
-			<h2> <a href="why-hire-a-market-research-firm.php" alt="5 Reasons You Should Hire a Market Research Firm">5 Reasons You Should Hire a Market Research Firm</a> </h2>			
-			
-		<p class="green-ques"> <small> August 17, 2020</small> </p>
-		
-		<img src="/_img/marketresearch.jpg" class="blog" alt="5 Reasons You Should Hire a Market Research Firm">
-<p>Are you looking to identify new potential markets, launch the next great product, or target your ideal customers? If so, then market research is a logical next step. But if the data collection methods, a multitude of data to sift through, and interpretation and analysis seem daunting, a market research firm can help you make sense of it all.  </p>
- 
-		 <a href="why-hire-a-market-research-firm.php" class="indus-section">Read More</a>
-			
-			
-		  <br>	<br>		
-
-
-			<h2> <a href="Substantiation-Basics.php">Substantiation Basics</a> </h2>			
-			
-		<p class="green-ques"> <small> July 14, 2020</small> </p>
-		<img src="/_img/Substantiation-Basics.jpg" class="blog" alt="UX Research in Action – Market Research Case Studies">
-		
-<p>As a marketer, you may have yet to face having a claim in your advertising and marketing challenged by your competitor or consumer. But those marketers who have experienced the need to produce claims substantiation.  </p>
- 
-		 <a href="Substantiation-Basics.php" class="indus-section">Read More</a>
-			
-			
-		  <br>	<br>				
-			
-		<!-- Blog 10 -->
-
-		  <h2> <a href="UX-research-in-action.php">UX Research in Action – Some of RAI’s Case Studies</a> </h2>			
-			
-		<p class="green-ques"> <small> June 23, 2020</small> </p>
-		<img src="/_img/finance-service-marketing-research.jpg" class="blog" alt="UX Research in Action – Market Research Case Studies">
-		
-<p>A popular video sharing platform wanted to attract more users. Specifically, they needed to understand the user experience obstacles of people over the age of 25 and previous (“churned”) users who had stopped frequenting the platform. </p>
- 
-		 <a href="UX-research-in-action.php" class="indus-section">Read More</a>
-			
-			
-		  <br>	<br>			
-			
+		  <br>	<br>
 			
 
 		  

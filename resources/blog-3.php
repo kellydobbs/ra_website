@@ -85,6 +85,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<p><a href="/contact.php"><img src="/_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
 			<br>
       
+      <h2>     <a href="/resources/customer-centricity-communications.php">Customer Centric Communications</a></h2>
+		<p class="green-ques"> <small> December 16, 2019</small> </p>
+		<img src="/_img/customer-centricity-communications.png" class="blog" alt="Customer Centric Communications"/>
+		 <p>This is the third post in our series on Customer-Centricity. To be customer-centric and build incredible experiences, we need to fully embrace every detail and fight for each detail to match the experience we want to deliver. 
+We talked about how this is critical in identifying opportunity and innovation. </p>
+		<p>	<a href=/resources/customer-centricity-communications.php  class="indus-section">Read More</a><br>
+<br>
+		
+		  <h2><a href="../resources/swipe-right-for-swiperight.php">Swipe Right for SwipeRight</a></h2>
+		  <p class="green-ques"> <small> November 5, 2019</small> </p>
+		<img src="../_img/faucet-sales.jpg" class="blog" alt="Better market research based on more predictive results"/>
+		  <p>The gold standard for successful marketing research is to predict market behavior accurately, and of course, result inmarket success. Research America’s team of experts set out to develop a methodology that would help their client better lead their industries through decisions based on more predictive results.</p>
+		<P>	<a href="../resources/swipe-right-for-swiperight.php"  class="indus-section">Read More</a>
+		</p>
+			<br>	
+      
     <h2>
       <a href="/resources/customer-centric-innovation.php">Customer Centric Innovation</a></h2>     
     <p class="green-ques"> <small> October 22, 2019</small> </p>

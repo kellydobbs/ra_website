@@ -85,7 +85,44 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<p>  Sign up here to learn more about RAI</p>
 			<p><a href="/contact.php"><img src="/_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
 <br>
-<!-- Blog 1 -->
+<h2> <a href="why-hire-a-market-research-firm.php" alt="5 Reasons You Should Hire a Market Research Firm">5 Reasons You Should Hire a Market Research Firm</a> </h2>			
+			
+			<p class="green-ques"> <small> August 17, 2020</small> </p>
+			
+			<img src="/_img/marketresearch.jpg" class="blog" alt="5 Reasons You Should Hire a Market Research Firm">
+	<p>Are you looking to identify new potential markets, launch the next great product, or target your ideal customers? If so, then market research is a logical next step. But if the data collection methods, a multitude of data to sift through, and interpretation and analysis seem daunting, a market research firm can help you make sense of it all.  </p>
+	 
+			 <a href="why-hire-a-market-research-firm.php" class="indus-section">Read More</a>
+				
+				
+			  <br>	<br>		
+	
+	
+				<h2> <a href="Substantiation-Basics.php">Substantiation Basics</a> </h2>			
+				
+			<p class="green-ques"> <small> July 14, 2020</small> </p>
+			<img src="/_img/Substantiation-Basics.jpg" class="blog" alt="UX Research in Action – Market Research Case Studies">
+			
+	<p>As a marketer, you may have yet to face having a claim in your advertising and marketing challenged by your competitor or consumer. But those marketers who have experienced the need to produce claims substantiation.  </p>
+	 
+			 <a href="Substantiation-Basics.php" class="indus-section">Read More</a>
+				
+				
+			  <br>	<br>				
+				
+	
+			  <h2> <a href="UX-research-in-action.php">UX Research in Action – Some of RAI’s Case Studies</a> </h2>			
+				
+			<p class="green-ques"> <small> June 23, 2020</small> </p>
+			<img src="/_img/finance-service-marketing-research.jpg" class="blog" alt="UX Research in Action – Market Research Case Studies">
+			
+	<p>A popular video sharing platform wanted to attract more users. Specifically, they needed to understand the user experience obstacles of people over the age of 25 and previous (“churned”) users who had stopped frequenting the platform. </p>
+	 
+			 <a href="UX-research-in-action.php" class="indus-section">Read More</a>
+				
+				
+			  <br>	<br>			
+				
 	<h2> <a href="../resources/open-letter-to-our-employees-and-customers.php">An Open Letter to our Employees and Customers </a> </h2>			
 		<p class="green-ques"> <small> June 9, 2020</small> </p>
 		<img src="/_img/porter.jpg" class="blog" alt="Gain Better UX Insights Using these 4 Touchpoints">
@@ -157,35 +194,6 @@ Steve Jobs once said, “If the user is having a problem, it’s our problem.”
 		 <p>When marketers have the direction and confidence to focus their efforts on the moments of maximum influence, they stand a much better chance of reaching consumers in the right place at the right time and with the right message. If they can do that, they have a better chance of influencing shopper behavior. </p>
 		<p>	<a href=/resources/5-consumers-trends.php  class="indus-section">Read More</a><br>			
 	<br>
-		
-
-
-	   <h2>     <a href="/resources/customer-centricity-communications.php">Customer Centric Communications</a></h2>
-		<p class="green-ques"> <small> December 16, 2019</small> </p>
-		<img src="/_img/customer-centricity-communications.png" class="blog" alt="Customer Centric Communications"/>
-		 <p>This is the third post in our series on Customer-Centricity. To be customer-centric and build incredible experiences, we need to fully embrace every detail and fight for each detail to match the experience we want to deliver. 
-We talked about how this is critical in identifying opportunity and innovation. </p>
-		<p>	<a href=/resources/customer-centricity-communications.php  class="indus-section">Read More</a><br>
-<br>
-
-
-		<!-- Blog 10 -->
-
-		
-		  <h2><a href="../resources/swipe-right-for-swiperight.php">Swipe Right for SwipeRight</a></h2>
-		  <p class="green-ques"> <small> November 5, 2019</small> </p>
-		<img src="../_img/faucet-sales.jpg" class="blog" alt="Better market research based on more predictive results"/>
-		  <p>The gold standard for successful marketing research is to predict market behavior accurately, and of course, result inmarket success. Research America’s team of experts set out to develop a methodology that would help their client better lead their industries through decisions based on more predictive results.</p>
-		<P>	<a href="../resources/swipe-right-for-swiperight.php"  class="indus-section">Read More</a>
-		</p>
-			<br>	
-
-
-
-
-
-
-
 
 	
 <div class="pagination">
