@@ -1,0 +1,592 @@
+# Query: TJ6M582
+# Flags: CaseSensitive WordMatch RegExp
+# ContextLines: 1
+
+130 results - 67 files
+
+certification.php:
+  31  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  32: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  33  <!-- End Google Tag Manager -->
+
+  37  <!-- Google Tag Manager (noscript) -->
+  38: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  39  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+contact.php-http:
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+site-map.php:
+  32  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  33: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  34  <!-- End Google Tag Manager -->
+
+  38  <!-- Google Tag Manager (noscript) -->
+  39: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  40  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/Lens-Advertising-Messaging.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/Lens-Brand-Equity-and-Trackers.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/Lens-Concept-Testing.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/Lens-Custom-brand-tracker.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/Lens-Custom-Qualitative-research-services.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/Lens-Custom-Qualitative-services.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/Lens-Custom-Quantitative-Research-Services.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  33  <!-- Google Tag Manager (noscript) -->
+  34: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  35  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/Lens-product-packaging.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/Lens-quantitative-customer-satisfaction.php:
+  27  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  28: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  29  <!-- End Google Tag Manager -->
+
+  33  <!-- Google Tag Manager (noscript) -->
+  34: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  35  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+about-us/lens.php:
+  28  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  29: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  30  <!-- End Google Tag Manager -->
+
+  34  <!-- Google Tag Manager (noscript) -->
+  35: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  36  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+products/index.php:
+  40  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  41: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  42  <!-- End Google Tag Manager -->
+
+  46  <!-- Google Tag Manager (noscript) -->
+  47: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  48  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/ Focus-Groups-for-Consumer-Insights.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/ Focus-Groups-for-Consumers.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/4-ways-to-become-more-customer-centric.php:
+  22  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  23: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  24  <!-- End Google Tag Manager -->
+
+  28  <!-- Google Tag Manager (noscript) -->
+  29: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  30  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/5-consumers.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/blog-2.php:
+  35  <!-- Google Tag Manager (noscript) -->
+  36: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  37  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/blog-3.php:
+  35  <!-- Google Tag Manager (noscript) -->
+  36: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  37  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/blog.php:
+  35  <!-- Google Tag Manager (noscript) -->
+  36: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  37  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/case-studies.php:
+  31  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  32: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  33  <!-- End Google Tag Manager -->
+
+  37  <!-- Google Tag Manager (noscript) -->
+  38: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  39  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/case-study-1.php:
+  21  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  22: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  23  <!-- End Google Tag Manager -->
+
+  27  <!-- Google Tag Manager (noscript) -->
+  28: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  29  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/case-study-2.php:
+  21  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  22: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  23  <!-- End Google Tag Manager -->
+
+  27  <!-- Google Tag Manager (noscript) -->
+  28: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  29  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/case-study-3.php:
+  27  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  28: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  29  <!-- End Google Tag Manager -->
+
+  33  <!-- Google Tag Manager (noscript) -->
+  34: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  35  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/case-study-4.php:
+  21  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  22: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  23  <!-- End Google Tag Manager -->
+
+  27  <!-- Google Tag Manager (noscript) -->
+  28: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  29  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/case-study-5.php:
+  22  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  23: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  24  <!-- End Google Tag Manager -->
+
+  28  <!-- Google Tag Manager (noscript) -->
+  29: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  30  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/case-study-6.php:
+  22  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  23: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  24  <!-- End Google Tag Manager -->
+
+  28  <!-- Google Tag Manager (noscript) -->
+  29: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  30  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/case-study-7.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/case-study-8.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/customer-centricity-communications.php:
+  41  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  42: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  43  <!-- End Google Tag Manager -->
+
+  49  <!-- Google Tag Manager (noscript) -->
+  50: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  51  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/Ethnographic-Research.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/Focus-Groups-for-Consumer-Insights.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/index.php:
+  35  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  36: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  37  <!-- End Google Tag Manager -->
+
+  41  <!-- Google Tag Manager (noscript) -->
+  42: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  43  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/lens.php:
+  26  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  27: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  28  <!-- End Google Tag Manager -->
+
+  32  <!-- Google Tag Manager (noscript) -->
+  33: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  34  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/market-segmentation.php:
+  21  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  22: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  23  <!-- End Google Tag Manager -->
+
+  27  <!-- Google Tag Manager (noscript) -->
+  28: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  29  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-6.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-7.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-10.php:
+  21  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  22: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  23  <!-- End Google Tag Manager -->
+
+  27  <!-- Google Tag Manager (noscript) -->
+  28: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  29  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-11.php:
+  21  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  22: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  23  <!-- End Google Tag Manager -->
+
+  27  <!-- Google Tag Manager (noscript) -->
+  28: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  29  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-12.php:
+  22  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  23: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  24  <!-- End Google Tag Manager -->
+
+  28  <!-- Google Tag Manager (noscript) -->
+  29: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  30  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-13.php:
+  22  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  23: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  24  <!-- End Google Tag Manager -->
+
+  28  <!-- Google Tag Manager (noscript) -->
+  29: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  30  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-14.php:
+  22  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  23: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  24  <!-- End Google Tag Manager -->
+
+  28  <!-- Google Tag Manager (noscript) -->
+  29: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  30  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-15.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-16.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-17.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-18.php:
+  21  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  22: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  23  <!-- End Google Tag Manager -->
+
+  27  <!-- Google Tag Manager (noscript) -->
+  28: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  29  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-case-19.php:
+  18  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  19: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  20  <!-- End Google Tag Manager -->
+
+  24  <!-- Google Tag Manager (noscript) -->
+  25: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  26  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-study-1.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-study-2.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-study-3.php:
+  24  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  25: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  26  <!-- End Google Tag Manager -->
+
+  30  <!-- Google Tag Manager (noscript) -->
+  31: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  32  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-Study-4.php:
+  24  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  25: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  26  <!-- End Google Tag Manager -->
+
+  30  <!-- Google Tag Manager (noscript) -->
+  31: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  32  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-study-5.php:
+  23  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  24: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  25  <!-- End Google Tag Manager -->
+
+  29  <!-- Google Tag Manager (noscript) -->
+  30: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  31  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-Study-6.php:
+  22  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  23: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  24  <!-- End Google Tag Manager -->
+
+  28  <!-- Google Tag Manager (noscript) -->
+  29: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  30  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-study-8.php:
+  24  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  25: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  26  <!-- End Google Tag Manager -->
+
+  30  <!-- Google Tag Manager (noscript) -->
+  31: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  32  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/project-summaries-study-9.php:
+  22  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  23: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  24  <!-- End Google Tag Manager -->
+
+  28  <!-- Google Tag Manager (noscript) -->
+  29: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  30  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/Quantitative-Qualitative-Market-Research.php:
+  25  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  26: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  27  <!-- End Google Tag Manager -->
+
+  31  <!-- Google Tag Manager (noscript) -->
+  32: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  33  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/RAI-project-summaries-studies.php:
+  35  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  36: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  37  <!-- End Google Tag Manager -->
+
+  41  <!-- Google Tag Manager (noscript) -->
+  42: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  43  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/Research-Tools.php:
+  33  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  34: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  35  <!-- End Google Tag Manager -->
+
+  39  <!-- Google Tag Manager (noscript) -->
+  40: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  41  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/research-with-a-holistic-approach.php:
+  42  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  43: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  44  <!-- End Google Tag Manager -->
+
+  51  <!-- Google Tag Manager (noscript) -->
+  52: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  53  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/resources.php:
+  35  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  36: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  37  <!-- End Google Tag Manager -->
+
+  41  <!-- Google Tag Manager (noscript) -->
+  42: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  43  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/tip-sheets.php:
+  35  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  36: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  37  <!-- End Google Tag Manager -->
+
+  41  <!-- Google Tag Manager (noscript) -->
+  42: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  43  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+resources/winning-with-superiority-claim1.php:
+  24  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  25: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  26  <!-- End Google Tag Manager -->
+
+  30  <!-- Google Tag Manager (noscript) -->
+  31: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  32  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+services/focus-group-facilities.php:
+  21  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  22: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  23  <!-- End Google Tag Manager -->
+
+  27  <!-- Google Tag Manager (noscript) -->
+  28: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  29  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+services/focus-groups2.php:
+  32  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  33: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  34  <!-- End Google Tag Manager -->
+
+  38  <!-- Google Tag Manager (noscript) -->
+  39: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  40  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+services/interviewing.php:
+  37  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  38: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  39  <!-- End Google Tag Manager -->
+
+  43  <!-- Google Tag Manager (noscript) -->
+  44: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  45  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+services/market-segmentation.php:
+  37  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  38: })(window,document,'script','dataLayer','GTM-T28PP6C');</script>
+  39  <!-- End Google Tag Manager -->
+
+  43  <!-- Google Tag Manager (noscript) -->
+  44: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T28PP6C"
+  45  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

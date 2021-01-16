@@ -18,7 +18,28 @@ h2 {
 </head>
 
 <body>
-<?php include("../_inc/body_top.php"); ?>
+<?php include("../_inc/gtm_body.php"); ?>
+
+<div class="container">
+            <div class="row" id="main-header">
+            <div class="header-logo">
+                <a href="../">
+                <img src="../_img/research-america-logo-new2.png" class="main-header-logo">
+                </a>
+                <a id="open-mobile-menu" href="#sidr">
+                <img src="../_img/open-mobile-menu.png">
+                </a>
+            </div>
+            <div class="header-number">
+                <p>
+                <a href="tel:1-610-356-1800">Call an Expert!  (610) 356-1800</a>
+                </p>
+            </div>
+            </div>
+
+
+<!--ooo000ooo -->
+<?php include("../_inc/citiesbar_inc.php"); ?>
 
 <div class="row" id="page-header">
 	<img src="../_img/secondary-market-research.png" alt="using secondary market research data"> <!-- header image: 1000×290 -->
