@@ -102,7 +102,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="prosur-section"> <img src="_img/research-team/Rob-Porter.jpg"  alt="" width="70" height="70" class="product-thumb"/>
           <h1>Robert Porter<br>
             CEO</h1>
-          <p>Robert is proficient in all stages of the research process, including survey and study design, questionnaire development, data analysis, and reporting. Robert makes...<a href="http://www.researchamericainc.com/about-us-data-collection/robert-porter-bio.php" title="Robert Porter">Read More</a> <br>
+          <p>Robert is proficient in all stages of the research process, including survey and study design, questionnaire development, data analysis, and reporting. Robert makes...<a href="https://www.researchamericainc.com/about-us-data-collection/robert-porter-bio.php" title="Robert Porter">Read More</a> <br>
            <b> Edu:</b> Temple Univ., Finance   <br>
             <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/> <a rel="no follow" href="mailto:robp@researchamericainc.com">robp@researchamericainc.com</a>           
         </div>
@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="prosur-section"> <img src="www/_img/research-team/larry.jpg" width="70" height"70"   class="product-thumb">
           <h1>Larry Durkin<br>
             Vice President </h1>
-          <p>Larry brings over 20 years of market research experience in both qualitative & quantitative methods to our firm, including secondary data analytics. Larry’s...<a href="http://www.researchamericainc.com/about-us-data-collection/larry-durkin-bio.php" title="Larry Durkin"> Read More </a> <br>
+          <p>Larry brings over 20 years of market research experience in both qualitative & quantitative methods to our firm, including secondary data analytics. Larry’s...<a href="https://www.researchamericainc.com/about-us-data-collection/larry-durkin-bio.php" title="Larry Durkin"> Read More </a> <br>
             <strong>Edu:</strong> M.B.A, Marketing and M.A. Ind/Org Psychology, Univ. New Haven; B.A., Psychology, Univ. of DE. <br>
             <img src="www/_img/research-team/e.jpg" width="16" height="10" alt=""/> <a rel="nofollow" href="mailto:ldurkin@MSPanalytics.com">ldurkin@MSPanalytics.com</a>           
         </div>
@@ -126,7 +126,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="prosur-section"><img src="_img/research-team/AmyBenner.jpg" width="70" height="70"  class="product-thumb" alt="Amy Benner"> 
           <h1>Amy Benner <br>
             Vice President </h1>
-          <p>Amy brings over 13 years of market research and strategic consulting experience to Research America. She is responsible for growing client relation....<a href="http://www.researchamericainc.com/about-us-data-collection/amy-benner-bio.php" title="Amy Benner"> Read More </a> <br>
+          <p>Amy brings over 13 years of market research and strategic consulting experience to Research America. She is responsible for growing client relation....<a href="https://www.researchamericainc.com/about-us-data-collection/amy-benner-bio.php" title="Amy Benner"> Read More </a> <br>
             <strong>Edu:</strong> B.S., ME, The University of Michigan; M.B.A., Mktg, Oakland Univ.<br>
              <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><a rel="nofollow" href="mailto:amyb@researchamericainc.com"> amyb@researchamericainc.com</a>           
         </div>
@@ -152,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="prosur-section"> <img src="www/_img/research-team/jim-whalen.png"   alt="" width="70" height="70" class="product-thumb"/>
           <h1>Jim Whalen<br>
             Vice President</h1>
-          <p> Jim has more than 20 years of expert knowledge providing market research and consulting services to  U.S. and global brands.  He takes a holistic view of every...<a href="http://www.researchamericainc.com/about-us-data-collection/jim-whalen-bio.php" title="jim whalen"> Read More</a><br>
+          <p> Jim has more than 20 years of expert knowledge providing market research and consulting services to  U.S. and global brands.  He takes a holistic view of every...<a href="https://www.researchamericainc.com/about-us-data-collection/jim-whalen-bio.php" title="jim whalen"> Read More</a><br>
             <strong>Edu:</strong> M.S., Marketing, Miami University<br>
             <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><strong> </strong><a rel="nofollow" href="mailto:jimw@researchamericainc.com">jimw@researchamericainc.com</a>           
         </div>
@@ -167,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<img src="../www/_img/research-team/ted-davies.jpg"   alt="" width="70" height="70" class="product-thumb"/>
           <h1>Ted Davies<br>
             Sr. Insights Consultant </h1>
-          <p>Ted has worked with a wide variety of Fortune 500 clients during the past 30 years.  His experience spans major consumer product categories & over-the-counter....<a href="http://www.researchamericainc.com/about-us-data-collection/ted-davies-bio.php" title="ted Davies"> Read More</a><br>
+          <p>Ted has worked with a wide variety of Fortune 500 clients during the past 30 years.  His experience spans major consumer product categories & over-the-counter....<a href="https://www.researchamericainc.com/about-us-data-collection/ted-davies-bio.php" title="ted Davies"> Read More</a><br>
             <strong>Edu:</strong> M.B.A., Bus., IN. Univ.; Ph.D., Sociology, IUB<br>
             <img src="www/_img/research-team/e.jpg" width="16" height="10" alt=""/><a rel="no follow" href="../www/about-us-data-collection/tomr@researchamericainc.com"> ted@researchamericainc.com</a>           
         </div>
@@ -178,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="prosur-section"> <img src="_img/research-team/pete.jpg"  alt="" width="70" height="70" class="product-thumb"/>
           <h1>Pete Haldy<br>
             Director of Research </h1>
-          <p>Peter joined the Research America team, after leading Haldy McIntosh &amp; Associates. He is an expert on the healthcare industry as well as the design and....<a href="http://www.researchamericainc.com/about-us-data-collection/pete-hadly-bio.php" title="Peter Haldy"> Read More</a> <br>
+          <p>Peter joined the Research America team, after leading Haldy McIntosh &amp; Associates. He is an expert on the healthcare industry as well as the design and....<a href="https://www.researchamericainc.com/about-us-data-collection/pete-hadly-bio.php" title="Peter Haldy"> Read More</a> <br>
             <strong>Edu:</strong> M.B.A., Marketing, AU..<br>
             <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><a rel="no follow" href="mailto:peterh@researchamericainc.com"> peterh@researchamericainc.com</a>           
         </div>
@@ -191,7 +191,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="prosur-section"> <img src="../www/_img/research-team/lee-ann.jpg"   alt="" width="70" height="70" class="product-thumb"/>
           <h1>Lee Ann Evans<br>
             Sr. Research Consultant</h1>
-          <p>Collaborative and empathic problem solver. Responsive and agile. Lee Ann brings a unique skill set to the Research Amearica team. With a depth of experience across qualitative and quantitative research, and an aptitude for building....<a href="http://www.researchamericainc.com/about-us-data-collection/lee-ann-evans-bio.php" title="Leann Evans">Read More</a><br>
+          <p>Collaborative and empathic problem solver. Responsive and agile. Lee Ann brings a unique skill set to the Research Amearica team. With a depth of experience across qualitative and quantitative research, and an aptitude for building....<a href="https://www.researchamericainc.com/about-us-data-collection/lee-ann-evans-bio.php" title="Leann Evans">Read More</a><br>
            <b> Edu:</b> M.B.A., Research, XU.. <br>
             <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/> <a rel="nofollow" href="mailto:leeanne@researchamericainc.com">leeanne@researchamericainc.com</a>           
         </div>
@@ -202,7 +202,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="prosur-section"> <img src="../www/_img/research-team/Donna.jpg"    width="70" height"70"   class="product-thumb">
           <h1>Donna Ford<br>
             BD & Account Executive </h1>
-          <p>Donna brings over twenty-five years’ experience in market research - both as a client & as a senior member in major research... <a href="http://www.researchamericainc.com/about-us-data-collection/donna-ford-bio.php" title="Donna Ford"> Read More </a><br>
+          <p>Donna brings over twenty-five years’ experience in market research - both as a client & as a senior member in major research... <a href="https://www.researchamericainc.com/about-us-data-collection/donna-ford-bio.php" title="Donna Ford"> Read More </a><br>
             <strong>Edu:</strong> M.S.M., Bus. &amp; Org. Mgmt., RWC <br>
             B.S., Org. Mgmt., RWC <br>
             A.S., Bus. ADMIN, RIT.<br>
@@ -231,7 +231,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="prosur-section"> <img src="../www/_img/research-team/kandis.jpg"   width="70" height="70" class="product-thumb">
           <h1>Kandis Demeo<br>
             Operations Manager </h1>
-          <p>Kandis Demeo joined Research America in 1999 (EMH) and held a number of research roles. With expertise in sciences and research study ....<a href="http://www.researchamericainc.com/about-us-data-collection/kandis-demo-bio.php" title="Kandis Demo "> Read More </a><br>
+          <p>Kandis Demeo joined Research America in 1999 (EMH) and held a number of research roles. With expertise in sciences and research study ....<a href="https://www.researchamericainc.com/about-us-data-collection/kandis-demo-bio.php" title="Kandis Demo "> Read More </a><br>
             <strong>Edu:</strong> University of California  <br>
             <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><a rel="nofollow" href="mailto:kandisd@researchamericainc.com"> kandisd@researchamericainc.com</a>           
         </div>
@@ -269,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<img src="../www/_img/research-team/larissa.jpg" width="70" height="70"    class="product-thumb">
           <h1>Larissa Gottschlich<br>
             Market Research Director</h1>
-          <p>With nearly 10 years of experience designing, moderating and leading research projects with multicultural and general market respondents, Larissa’s curiosity, strategic thinking, and project....<a href="http://www.researchamericainc.com/about-us-data-collection/larissa-gottschlich-bio.php" title="Lola Oyelese"> Read More </a> <br>
+          <p>With nearly 10 years of experience designing, moderating and leading research projects with multicultural and general market respondents, Larissa’s curiosity, strategic thinking, and project....<a href="https://www.researchamericainc.com/about-us-data-collection/larissa-gottschlich-bio.php" title="Lola Oyelese"> Read More </a> <br>
            <b> Edu:</b> M.A. Comm, NKU <br>
            <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><strong> </strong><a rel="nofollow" href="mailto:Larissag@researchamericainc.com">Larissag@researchamericainc.com</a>           
         </div>
@@ -293,7 +293,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="prosur-section"> <img src="../www/_img/research-team/lynne-lockwood.jpg" width="70" height"70"   class="product-thumb">
           <h1>Lynne Lockwood<br>
             Sr. Insights Consultant </h1>
-          <p>Lynne has over 30 years’ experience in designing and directing a wide range of studies across every conceivable industry, including new product evaluations, customer...<a href="http://www.researchamericainc.com/about-us-data-collection/lynne-lockwood-bio.php" title="Lockwood"> Read More</a> <br>
+          <p>Lynne has over 30 years’ experience in designing and directing a wide range of studies across every conceivable industry, including new product evaluations, customer...<a href="https://www.researchamericainc.com/about-us-data-collection/lynne-lockwood-bio.php" title="Lockwood"> Read More</a> <br>
             <strong>Edu: </strong>B.A., Comm., PR &amp; Media Studies, UC. <br>
             <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><strong> </strong><a rel="nofollow" href="mailto:lynnel@researchamericainc.com">lynnel@researchamericainc.com</a>           
         </div>
@@ -340,7 +340,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="inner">
           <div class="prosur-section"> <img src="../www/_img/research-team/kevin-pond.jpg"  width="70" height"70"   class="product-thumb">
             <h1>Kevin Pond<br>Analyst </h1>
-            <p>Kevin joined Research America in 2017 as an Analyst. He has over 5 years’ experience in the pharmaceutical and healthcare market research industries, working  on the research... <a href="http://www.researchamericainc.com/about-us-data-collection/kevin-pond-bio.php" title="Kevin pond"> Read More</a><br>
+            <p>Kevin joined Research America in 2017 as an Analyst. He has over 5 years’ experience in the pharmaceutical and healthcare market research industries, working  on the research... <a href="https://www.researchamericainc.com/about-us-data-collection/kevin-pond-bio.php" title="Kevin pond"> Read More</a><br>
               <strong>Edu: </strong>B.A., SUNY Geneseo<br>
               <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><a rel="nofollow" href="mailto:kevinp@researchamericainc.com "> kevinp@researchamericainc.com </a>             
           </div>
@@ -368,7 +368,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="prosur-section"> <img src="../www/_img/research-team/LaurenSemrau.jpg"  width="70" height"70"   class="product-thumb">
             <h1>Lauren Semrau<br>
               Market Research Coordinator</h1>
-            <p>Lauren specializes in online behavioral analysis, digital media, survey design and reporting, and has experience working with clients in the financial, insurance, health, retail.... <a href="http://www.researchamericainc.com/about-us-data-collection/lauren-semrau-bio.php" title="Lauren Semrau"> Read More </a> <br>
+            <p>Lauren specializes in online behavioral analysis, digital media, survey design and reporting, and has experience working with clients in the financial, insurance, health, retail.... <a href="https://www.researchamericainc.com/about-us-data-collection/lauren-semrau-bio.php" title="Lauren Semrau"> Read More </a> <br>
               <strong>Edu:</strong> B.A., AD &amp; Public Relations, MI State University <br>
               <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><strong> </strong><a rel="nofollow" href="mailto:laurens@researchamericainc.com">laurens@researchamericainc.com</a></p>
           </div>
@@ -391,7 +391,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
             <h1>Maddie Sutphin<br>
             Director of Product Testing</h1>
-            <p> Maddie is the Director of Product Testing – Orlando for the firm. Maddie has over 35 years of experience in Market Research. During her career Maddie has focused on...<a href="http://www.researchamericainc.com/about-us-data-collection/maddie-sutphin-bio.php" title="Maddie Sutphin"> Read More </a> <br>
+            <p> Maddie is the Director of Product Testing – Orlando for the firm. Maddie has over 35 years of experience in Market Research. During her career Maddie has focused on...<a href="https://www.researchamericainc.com/about-us-data-collection/maddie-sutphin-bio.php" title="Maddie Sutphin"> Read More </a> <br>
               <strong>Edu: </strong>B.S., Bus. Admin, UT<br>
           <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/>
 			</div>
@@ -402,7 +402,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="prosur-section"> <img src="www/_img/research-team/ryan-clark.jpg" width="70"  height"70"   class="product-thumb"70" weight"70px>
             <h1>Ryan Clark<br>
               Director of Operations </h1>
-            <p>Ryan Clark has managed all projects in Research America’s sensory testing and focus group facilities. He began his marketing research career at Partners In Research over sixteen....<a href="http://www.researchamericainc.com/about-us-data-collection/ryan-clark-bio.php" title="Ryan Clark"> Read More </a> <br>
+            <p>Ryan Clark has managed all projects in Research America’s sensory testing and focus group facilities. He began his marketing research career at Partners In Research over sixteen....<a href="https://www.researchamericainc.com/about-us-data-collection/ryan-clark-bio.php" title="Ryan Clark"> Read More </a> <br>
               <strong>Edu:</strong> B.A., Marketing; B.A., RU. <br>
               <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><a rel="no follow" href="mailto: ryanclark@@researchamericainc.com "> ryanclark@researchamericainc.com </a>             
           </div>
@@ -415,7 +415,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="prosur-section"> <img src="_img/research-team/AnnRogersLane.jpg"  width="70" height"70"   class="product-thumb">
             <h1>Ann Lane Rogers<br>
               Operations Manager </h1>
-            <p>Ann has over fifteen years’ experience in corporate management and service quality research. Over the course of her career, Ann developed and managed regional....<a href="http://www.researchamericainc.com/about-us-data-collection/ann-rogers-lane.php" title="Ann Rogers Lane"> Read More </a> <br>
+            <p>Ann has over fifteen years’ experience in corporate management and service quality research. Over the course of her career, Ann developed and managed regional....<a href="https://www.researchamericainc.com/about-us-data-collection/ann-rogers-lane.php" title="Ann Rogers Lane"> Read More </a> <br>
               <strong>Edu:</strong> B.A., Eng., SEC. Edu., SUNY Geneseo   <br>
               <img src="www/_img/research-team/e.jpg" width="16" height="10" alt=""/> <a rel="nofollow" href="mailto:arlane@metrixmatrix.com">arlane@</a><a rel="no follow" href="mailto:robp@researchamericainc.com">researchamericainc.com</a>             
           </div>
@@ -439,7 +439,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			  <img src="../www/_img/research-team/neal-eckstein.jpg"   width="70" height"70"   class="product-thumb">
             <h1> Neal Eckstein<br>Project Manager
 </h1>
-            <p>Neal takes the utmost pride in utilizing his unique ability to interact and communicate effectively with people in any social or professional setting. With just under three years of   .... <a href="http://www.researchamericainc.com/about-us-data-collection/neal-eckstein-bio.php" title="Neal Eckstein"> Read More </a> <br>
+            <p>Neal takes the utmost pride in utilizing his unique ability to interact and communicate effectively with people in any social or professional setting. With just under three years of   .... <a href="https://www.researchamericainc.com/about-us-data-collection/neal-eckstein-bio.php" title="Neal Eckstein"> Read More </a> <br>
               <strong>Edu:</strong> B.B.A, Mktg. &amp; Sales, MI Univ., FSB. <br>
               <img src="www/_img/research-team/e.jpg" width="18" height="12" alt=""/><strong> </strong><a rel="nofollow" href="mailto:neale@researchamericainc.com">neale@researchamericainc.com</a>             
         </div>

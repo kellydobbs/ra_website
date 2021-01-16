@@ -15,7 +15,7 @@
     
 <meta name="robots" content="index,follow">
 
-<link rel="canonical" href="http://www.researchamericainc.com/products/">
+<link rel="canonical" href="https://www.researchamericainc.com/products/">
 
   <link rel="stylesheet" href="../_js/owl-carousel/owl.carousel.css">
   <link rel="stylesheet" href="../_js/owl-carousel/owl.theme.css">

@@ -49,11 +49,11 @@ $desc = "qualitative research is that it allows you to dig deeper and get beyond
 
 	  <li>
 
-	  <a href="http://www.researchamericainc.com/services/survey-study-design.php" title="Longitudinal studies">Longitudinal studies</a></li>
+	  <a href="https://www.researchamericainc.com/services/survey-study-design.php" title="Longitudinal studies">Longitudinal studies</a></li>
 	
 	
 	  <li>
-	  <a href="http://www.researchamericainc.com/marketing-research.php" title="Observational Research">	Observational Research </a></li>
+	  <a href="https://www.researchamericainc.com/marketing-research.php" title="Observational Research">	Observational Research </a></li>
 		
 	</ul>
         

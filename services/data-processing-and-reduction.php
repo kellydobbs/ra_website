@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/analytics.php" title="Analytics"><strong>Analytics</strong></a> - Our analytics team works alongside your marketers to design research pathways that address your business challenges. Bringing decades of experience in broad and specialty business industries, we examine ways to apply knowledge uncovered by marketing research to product development, customer segmentation, and user experience.
+			<a href="https://www.researchamericainc.com/services/analytics.php" title="Analytics"><strong>Analytics</strong></a> - Our analytics team works alongside your marketers to design research pathways that address your business challenges. Bringing decades of experience in broad and specialty business industries, we examine ways to apply knowledge uncovered by marketing research to product development, customer segmentation, and user experience.
 
 		</li>
 
@@ -106,20 +106,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/coding.php" title="Coding"><strong>Coding</strong></a> - Research America marketing researchers apply their deep expertise to make sense of the huge amount of data collected through open-ended responses within each survey.
+			<a href="https://www.researchamericainc.com/services/coding.php" title="Coding"><strong>Coding</strong></a> - Research America marketing researchers apply their deep expertise to make sense of the huge amount of data collected through open-ended responses within each survey.
 
 		</li>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/programming.php" title="Programming"><strong>Programming</strong></a> - Depending on the information our clients wish to obtain, Research America programming staff program complex computer questionnaires to ask any type of question and gather many categories of data, which can then be tabulated quickly for accurate results.
+			<a href="https://www.researchamericainc.com/services/programming.php" title="Programming"><strong>Programming</strong></a> - Depending on the information our clients wish to obtain, Research America programming staff program complex computer questionnaires to ask any type of question and gather many categories of data, which can then be tabulated quickly for accurate results.
 
 		</li>
 
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/cross-tabulations.php" title="Cross Tabulations"><strong>Cross Tabulations</strong></a> - Cross tabulation analysis shows how survey responses relate to each other, as well as to demographic and other category responses in the survey. Cross tabulation analysis explores two or more variables simultaneously, dividing raw data into subgroups and showing how each dependent variable changes by subgroup.
+			<a href="https://www.researchamericainc.com/services/cross-tabulations.php" title="Cross Tabulations"><strong>Cross Tabulations</strong></a> - Cross tabulation analysis shows how survey responses relate to each other, as well as to demographic and other category responses in the survey. Cross tabulation analysis explores two or more variables simultaneously, dividing raw data into subgroups and showing how each dependent variable changes by subgroup.
 
 		</li>
 	

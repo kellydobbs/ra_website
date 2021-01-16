@@ -28,34 +28,34 @@ include("_inc/header.php"); ?>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/interviewing.php" title="Interviews">Interviews </a> - one-on-one conversations that dive deep into the topic at hand.
+			<a href="https://www.researchamericainc.com/services/interviewing.php" title="Interviews">Interviews </a> - one-on-one conversations that dive deep into the topic at hand.
 
 		</li>
 
 		<li>
-			<a href="http://www.researchamericainc.com/resources/case-studies.php" title="Case Studies">	Case Studies </a> - collections of client stories from in-depth interviews.
+			<a href="https://www.researchamericainc.com/resources/case-studies.php" title="Case Studies">	Case Studies </a> - collections of client stories from in-depth interviews.
 	  </li>
 <li>
-			<a href="http://www.researchamericainc.com/resources/case-studies.php" title="Case Studies">		Expert opinions</a> -	 high-quality information from well-informed sources.
+			<a href="https://www.researchamericainc.com/resources/case-studies.php" title="Case Studies">		Expert opinions</a> -	 high-quality information from well-informed sources.
 	  </li>
 
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/focus-groups.php" title="Focus Groups">	Focus Groups </a> -	in-person or online conversation with small groups of people to listen to their views on a product or topic.
+			<a href="https://www.researchamericainc.com/services/focus-groups.php" title="Focus Groups">	Focus Groups </a> -	in-person or online conversation with small groups of people to listen to their views on a product or topic.
 
 
 		</li>
 
 	  <li>
 
-			<a href="http://www.researchamericainc.com/services/telephone-surveys.php" title="Open-ended survey questions">Open-Ended Survey Questions</a> - a text box in a survey that lets the respondent express their thoughts on the matter at hand freely.
+			<a href="https://www.researchamericainc.com/services/telephone-surveys.php" title="Open-ended survey questions">Open-Ended Survey Questions</a> - a text box in a survey that lets the respondent express their thoughts on the matter at hand freely.
 
 	  </li>
 	
 	
 	  <li>
-			<a href="http://www.researchamericainc.com/marketing-research.php" title="Observational Research"> Observational Research </a> -	observing people during the course of their habitual routines to understand how they interact with a product, for example.
+			<a href="https://www.researchamericainc.com/marketing-research.php" title="Observational Research"> Observational Research </a> -	observing people during the course of their habitual routines to understand how they interact with a product, for example.
 
 
 

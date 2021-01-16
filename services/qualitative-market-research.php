@@ -53,7 +53,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="container">
 <div class="row" id="main-header">
   <div class="header-logo">
-    <a href="http://www.researchamericainc.com/" title="Market Research Organization">
+    <a href="https://www.researchamericainc.com/" title="Market Research Organization">
       <img src="../_img/research-america-logo-new2.png" alt="qualitative market research" class="main-header-logo">
     </a>
     <a href="/" class="home_top">HOME</a>

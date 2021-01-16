@@ -17,7 +17,7 @@
 
 <meta name="robots" content="index,follow">
 
-<link rel="canonical" href="http://www.researchamericainc.com/about-us-data-collection/telecommunications-solutions-for-over-40-years.php">
+<link rel="canonical" href="https://www.researchamericainc.com/about-us-data-collection/telecommunications-solutions-for-over-40-years.php">
 
 
   <link rel="stylesheet" href="../_js/owl-carousel/owl.carousel.css">

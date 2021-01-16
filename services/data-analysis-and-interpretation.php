@@ -95,40 +95,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/perceptual-mapping.php" title="Perceptual Mapping"><strong>Perceptual Mapping</strong></a> - Perceptual Mapping helps you understand how your products are perceived by different segments in your target audiences, guiding how you competitively position and market your current product, and helping to identify potential new products.
+			<a href="https://www.researchamericainc.com/services/perceptual-mapping.php" title="Perceptual Mapping"><strong>Perceptual Mapping</strong></a> - Perceptual Mapping helps you understand how your products are perceived by different segments in your target audiences, guiding how you competitively position and market your current product, and helping to identify potential new products.
 
 		</li>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/quadrant-analysis.php" title="Quadrant Analysis"><strong>Quadrant Analysis</strong></a> - Research America’s experts take consumer opinions about various product features from you and your competitors and plot each in a two-dimensional quadrant graph so that you can immediately see which important benefits are highly rated and perform well, and which features need improvement.
-
-		</li>
-
-
-		<li>
-
-			<a href="http://www.researchamericainc.com/services/price-demand-mapping.php" title="Price-Demand Mapping"><strong>Price-Demand Mapping</strong></a> - Develop better-informed, data-driven pricing strategies through price testing techniques, including price demand mapping, where analytics experts investigate your target market’s willingness to buy across a variety of price points.
-
-		</li>
-
-		<li>
-
-			<a href="http://www.researchamericainc.com/services/correlation-and-regression.php" title="Correlation and Regression"><strong>Correlation and Regression</strong></a> - Correlation and regression analysis are data analysis tools that determine if there is a relationship among multiple data variables and, if so, the strength of these relationships. This helps you understand which areas you should target to improve your key outcomes.
+			<a href="https://www.researchamericainc.com/services/quadrant-analysis.php" title="Quadrant Analysis"><strong>Quadrant Analysis</strong></a> - Research America’s experts take consumer opinions about various product features from you and your competitors and plot each in a two-dimensional quadrant graph so that you can immediately see which important benefits are highly rated and perform well, and which features need improvement.
 
 		</li>
 
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/market-segmentation.php" title="Market Segmentation"><strong>Market Segmentation</strong></a> - Market segmentation analysis increases the efficiency of marketing effort by identifying subsets of interested parties and stakeholders with a broader population.
+			<a href="https://www.researchamericainc.com/services/price-demand-mapping.php" title="Price-Demand Mapping"><strong>Price-Demand Mapping</strong></a> - Develop better-informed, data-driven pricing strategies through price testing techniques, including price demand mapping, where analytics experts investigate your target market’s willingness to buy across a variety of price points.
+
+		</li>
+
+		<li>
+
+			<a href="https://www.researchamericainc.com/services/correlation-and-regression.php" title="Correlation and Regression"><strong>Correlation and Regression</strong></a> - Correlation and regression analysis are data analysis tools that determine if there is a relationship among multiple data variables and, if so, the strength of these relationships. This helps you understand which areas you should target to improve your key outcomes.
+
+		</li>
+
+
+		<li>
+
+			<a href="https://www.researchamericainc.com/services/market-segmentation.php" title="Market Segmentation"><strong>Market Segmentation</strong></a> - Market segmentation analysis increases the efficiency of marketing effort by identifying subsets of interested parties and stakeholders with a broader population.
 
 		</li>
 
 
 	<li>
 
-			<a href="http://www.researchamericainc.com/services/conjoint-analysis.php" title="Conjoint Analysis and choice modeling"><strong>Conjoint Analysis and Choice Modeling</strong></a> - Conjoint analysis and choice-modeling simulates the decision-making process between one product offering and another and asks consumers to prioritize attributes, benefits,  and varying performance levels. Conjoint analysis and choice-modeling optimize product design, bundling of service offerings, and brand pricing.
+			<a href="https://www.researchamericainc.com/services/conjoint-analysis.php" title="Conjoint Analysis and choice modeling"><strong>Conjoint Analysis and Choice Modeling</strong></a> - Conjoint analysis and choice-modeling simulates the decision-making process between one product offering and another and asks consumers to prioritize attributes, benefits,  and varying performance levels. Conjoint analysis and choice-modeling optimize product design, bundling of service offerings, and brand pricing.
 
 		</li>
 

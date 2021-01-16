@@ -53,7 +53,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="container">
 <div class="row" id="main-header">
   <div class="header-logo">
-    <a href="http://www.researchamericainc.com/" title="Market Research Organization">
+    <a href="https://www.researchamericainc.com/" title="Market Research Organization">
       <img src="../_img/research-america-logo-new2.png" alt="qualitative marketing research" class="main-header-logo">
     </a>
     <a id="open-mobile-menu" href="#sidr">
@@ -92,7 +92,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/focus-groups.php" title="Focus Groups">
+			<a href="https://www.researchamericainc.com/services/focus-groups.php" title="Focus Groups">
 
 				Focus Groups
 
@@ -102,7 +102,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/focus-group-facilities.php" title="Focus Groups Facilities">
+			<a href="https://www.researchamericainc.com/services/focus-group-facilities.php" title="Focus Groups Facilities">
 
 			Focus Groups Facilities
 
@@ -113,7 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/face-to-face.php" title="Face To Face Interviewing">
+			<a href="https://www.researchamericainc.com/services/face-to-face.php" title="Face To Face Interviewing">
 
 				Face To Face Interviewing
 
@@ -123,7 +123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/interviewing.php" title="In-Depth Interviews">
+			<a href="https://www.researchamericainc.com/services/interviewing.php" title="In-Depth Interviews">
 
 				In-Depth Interviews
 			</a>

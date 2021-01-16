@@ -72,7 +72,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/about-us/Lens-Custom-brand-tracker.php" title="lens brand tracker">
+			<a href="https://www.researchamericainc.com/about-us/Lens-Custom-brand-tracker.php" title="lens brand tracker">
 
 					Lens™ Brand Tracker</a>
 
@@ -80,7 +80,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/services/" title="Lens™ Custom Qualitative Research Services">
+			<a href="https://www.researchamericainc.com/services/" title="Lens™ Custom Qualitative Research Services">
 
 			Lens™ Custom Qualitative Research Services
 
@@ -91,7 +91,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/about-us/ " title="Lens™ Custom Quantitative Research Services ">
+			<a href="https://www.researchamericainc.com/about-us/ " title="Lens™ Custom Quantitative Research Services ">
 
 				Lens™ Custom Quantitative Research Services 
 
@@ -101,7 +101,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<li>
 
-			<a href="http://www.researchamericainc.com/about-us/" title="Concept Testing">
+			<a href="https://www.researchamericainc.com/about-us/" title="Concept Testing">
 
 				Concept Testing
 			</a>

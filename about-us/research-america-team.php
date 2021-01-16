@@ -469,7 +469,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!--    <div class="prosur-section"><img src="../_img/research-team/ann.jpg"  width="65" height="65"class="product-thumb" alt=""/>-->
     <!--      <h1>Ann Lane Rogers<br>-->
     <!--        Operations Manager </h1>-->
-    <!--      <p>Ann has over fifteen years’ experience in corporate management and service quality research. Over the course of her career, Ann developed...<a href="http://www.researchamericainc.com/about-us/ann-rogers-lane.php" title="Ann Rogers Lane"> Read More </a> <br>-->
+    <!--      <p>Ann has over fifteen years’ experience in corporate management and service quality research. Over the course of her career, Ann developed...<a href="https://www.researchamericainc.com/about-us/ann-rogers-lane.php" title="Ann Rogers Lane"> Read More </a> <br>-->
     <!--        <strong>Edu:</strong> B.A., Eng., SEC. Edu., SUNY Geneseo   <br>-->
     <!--        <img src="research-team/e.jpg" width="18" height="12" alt=""/><strong> </strong><a rel="nofollow"href="mailto:annrl@researchamericainc.com">annrl@researchamericainc.com</a></p>-->
     <!--    </div>-->
