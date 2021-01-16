@@ -16,7 +16,7 @@
 
 <meta name="robots" content="index,follow">
 
-<link rel="canonical" href="https://researchamericainc.com/services/Syndicated-Data.php">
+<link rel="canonical" href="https://researchamericainc.com/services/Syndicated.Data.php">
 
 
 

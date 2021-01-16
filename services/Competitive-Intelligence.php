@@ -17,7 +17,7 @@
 
 <meta name="robots" content="index,follow">
 
-<link rel="canonical" href="https://researchamericainc.com/Competitive-Intelligence.php">
+<link rel="canonical" href="https://researchamericainc.com/services/Competitive-Intelligence.php">
 
   <link rel="stylesheet" href="../_js/owl-carousel/owl.carousel.css">
   <link rel="stylesheet" href="../_js/owl-carousel/owl.theme.css">

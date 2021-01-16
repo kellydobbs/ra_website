@@ -12,7 +12,7 @@
     <meta name="keywords" content=" win loss market research, market research tool, sales tool, Research America">
 <meta name="robots" content="index,follow">
 
-<link rel="canonical" href=" https://researchamericainc.com/aboutus/win-loss.php">
+<link rel="canonical" href="https://researchamericainc.com/about-us/win-loss.php">
 
 
   <link rel="stylesheet" href="../_js/owl-carousel/owl.carousel.css">
