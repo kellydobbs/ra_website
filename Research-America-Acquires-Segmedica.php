@@ -37,7 +37,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="container">
 <div class="row" id="main-header">
   <div class="header-logo">
-    <a href="/search">
+    <a href="/">
       <img src="_img/research-america-logo-new2.png" class="main-header-logo">
     </a>
     <a href="/" class="home_top">HOME</a>
