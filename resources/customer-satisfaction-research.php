@@ -29,6 +29,7 @@
     <a href="../">
       <img src="../_img/research-america-logo-new2.png" class="main-header-logo">
     </a>
+    <a href="/" class="home_top">HOME</a>
     <a id="open-mobile-menu" href="#sidr">
       <img src="../_img/open-mobile-menu.png">
     </a>
@@ -78,7 +79,7 @@
 <h2 class="med-link"><strong>It Differentiates You from the Competition</strong></h2>
 <p>All companies <em>should be</em> conducting customer satisfaction research, but they aren’t. Therefore, if you send out a customer satisfaction survey or make a phone call asking for customer opinions, you automatically set yourself apart from a lot of competitors. When done well, your concern about your customers and their opinions will remind them why they like your products and service!</p>
 <p>&nbsp;</p>
-<h2><strong>Want to Learn More?</strong></h2>
+<h2 class="med-link"><strong>Want to Learn More?</strong></h2>
 <p><a href="https://researchamericainc.com/services/"><span>Market research</span></a> is a necessary tool for all business, providing valuable insights that can be used to both assess, as well as promote, a company’s products and services. Customer satisfaction research, in particular, can help you build stronger relationships with the people you serve, making it easier for you to anticipate their future needs. If you would like to learn more about all the benefits that market research offers, please <a href="https://researchamericainc.com/" ><span>contact</span></a> our team at Research America.</p>
 <p>&nbsp;</p>
 <p>Please feel free to watch our 1-minute <a href="https://youtu.be/HrwkVmlmKiA" rel="noopener" target="_blank"><span>explainer video</span></a> about our customer satisfaction research surveys.&nbsp; Review samples of our work <a href="https://researchamericainc.com/resources/RAI-project-summaries-studies.php" ><span>here</span></a>.</p>
