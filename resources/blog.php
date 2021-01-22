@@ -85,6 +85,25 @@
 			
 			<br>
 
+<!-- title and link -->
+<h2><a href="customer-satisfaction-research.php">5 Ways Customer Satisfaction Research Can Drive Your Business Forward</a></h2>			
+
+<!-- date -->
+<p class="green-ques"> <small> January 22, 2021</small> </p> 
+
+<a href="customer-satisfaction-research.php"><img src="/_img/customer-satisfaction-research-thumb.png" class="blog" alt="customer satisfactopm research cam drive your business forward"></a>
+
+<p> Customer satisfaction research should be the first measure considered when putting together a market research plan for your company.
+ </p>
+ 
+<a href="customer-satisfaction-research.php" class="indus-section">Read More</a>
+		  <br>	
+          <br>
+          <br>
+
+
+
+
 <h2><a href="medical-market-research.php">The Latest Medical Market Research Shows A Huge Cultural Shift</a></h2>			
 
 <p class="green-ques"> <small> January 14, 2021</small> </p> 

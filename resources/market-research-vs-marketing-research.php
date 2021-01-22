@@ -1,23 +1,22 @@
 <?php
-?>      
+//  $pageTitle = " How to Use Focus Groups for Consumer Insights";
+//  include("../_inc/header2.php");
+?><!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      
   <link rel="stylesheet" href="../_js/owl-carousel/owl.carousel.css">
   <link rel="stylesheet" href="../_js/owl-carousel/owl.theme.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.sidr/2.2.1/stylesheets/jquery.sidr.light.min.css">
-  <link rel="stylesheet" href="../_css/style.css">
-  <link rel="stylesheet" href="http://vjs.zencdn.net/5.19.2/video-js.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+  <link href="../_css/style.css" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">     
 
     <title>Market Research vs. Marketing Research: What’s the Difference?</title>
     <meta name="description" content="Market research vs marketing research: Although they sound quite similar, there is an important difference. Learn how they differ in this blog.">
-    <link rel="canonical" href="https://researchamericainc.com/resources/market-research-vs-marketing-research.php">
 
-<style>
-    a {
-        font-weight:bolder;
-    }
-</style>
 <?php include("../_inc/gtm.php"); ?> 
 </head>
 <body>

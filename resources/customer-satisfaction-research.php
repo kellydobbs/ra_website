@@ -16,7 +16,6 @@
 
     <title>5 Ways Customer Satisfaction Research Can Drive Your Business Forward</title>
     <meta name="description" content="Customer satisfaction research should be the first measure considered when putting together a market research plan for your company.">
-
 <?php include("../_inc/gtm.php"); ?> 
 </head>
 <body>
