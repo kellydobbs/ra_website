@@ -78,15 +78,28 @@
 		<p>Sign up here to learn more about Research America</p>
 			<p><a href="../contact.php"><img src="../_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
 			
+<br>
+<h2><a href="market-research-vs-marketing-research.php">Market Research vs Marketing Research: What is The Difference?</a></h2>			
+
+<a href="market-research-vs-marketing-research.php"><img src="../_img/market-research-vs-marketing-research-thumb.png" class="blog" alt="market research vs marketing research"></a>
+
+<p> Market research vs marketing research: Although they sound quite similar, there is an important difference outlined in this blog.
+ </p>
+ 
+<a href="market-research-vs-marketing-research.php" class="indus-section">Read More</a>
+		  <br>	
+          <br>
+          <br>
+
 			<br>
-			<h2> <a href="Quantitative-Qualitative-Market-Research.php" alt"What’s the Difference between Quantitative and Qualitative Market Research? ">What’s the Difference between Quantitative and Qualitative Market Research?
+			<h2> <a href="Quantitative-Qualitative-Market-Research.php" alt="What’s the Difference between Quantitative and Qualitative Market Research? ">What’s the Difference between Quantitative and Qualitative Market Research?
 </a> </h2>			
 			
 		
 		<img src="../_img/RAI_QuanQual_2020.jpg" class="blog" alt="Regional Coffee Manufacturer Wins with Product Superiority Claim">
 <p>The best way to determine whether quantitative or qualitative market research is best for your business.</p>
  
-		 <a href="Quantitative-Qualitative-Market-Research.php" class="indus-section" alt"What’s the Difference between Quantitative and Qualitative Market Research?">Read More</a>
+		 <a href="Quantitative-Qualitative-Market-Research.php" class="indus-section" alt="What’s the Difference between Quantitative and Qualitative Market Research?">Read More</a>
 			
 			
 		  <br>	
@@ -96,7 +109,7 @@
 			
 			
 				<br>
-			<h2> <a href="Ethnographic-Research.php" alt"ehtnography research">How to Use Ethnographic Research for Innovation and Strategy
+			<h2> <a href="Ethnographic-Research.php" alt="ehtnography research">How to Use Ethnographic Research for Innovation and Strategy
 </a> </h2>			
 			
 		
@@ -111,13 +124,13 @@
 			<p>&nbsp;</p> 
 			 
 			 
-		<h2> <a href="Focus-Groups-for-Consumer-Insights.php" alt"How to Use Focus Groups for Consumer Insights">How to Use Focus Groups for Consumer Insights</a></h2>
+		<h2> <a href="Focus-Groups-for-Consumer-Insights.php" alt="How to Use Focus Groups for Consumer Insights">How to Use Focus Groups for Consumer Insights</a></h2>
 		
 		<p><img src="../_img/Focus-Groups-for- Consumer- Insights.jpeg" class="blog" alt="How to Use Focus Groups for Consumer Insights">
 		Focus groups are a mainstay of qualitative research methodologies.
 		  </p>
  
-		<a href="Focus-Groups-for-Consumer-Insights.php" alt"How to Use Focus Groups for Consumer Insights" class="indus-section">Read More</a>
+		<a href="Focus-Groups-for-Consumer-Insights.php" alt="How to Use Focus Groups for Consumer Insights" class="indus-section">Read More</a>
 			
 	<p></p>
 		  <br>
