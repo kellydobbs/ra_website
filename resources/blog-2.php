@@ -83,6 +83,21 @@
 		<p>  Sign up here to learn more about RAI</p>
 			<p><a href="/contact.php"><img src="/_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
 <br>
+
+
+<h2> <a href="3-market-research-bolsters.php" alt="3 Ways Market Research Can Bolster Your Marketing Creative">3 Ways Market Research Can Bolster Your Marketing Creative</a> </h2>			
+			
+			<p class="green-ques"> <small> August 25, 2020</small> </p>
+			
+			<img src="/_img/3-markert-research-bolsters.jpg" class="blog" alt="5 Reasons You Should Hire a Market Research Firm">
+	<p>Market research plays an important role in gaining a better understanding of your company, what motivates your target audience and trends in your industry. Did you know it can also be vital to your advertising efforts?  </p>
+	 
+			 <a href="3-market-research-bolsters.php" class="indus-section">Read More</a>
+			  <br>	<br>
+
+
+
+
 <h2> <a href="why-hire-a-market-research-firm.php" alt="5 Reasons You Should Hire a Market Research Firm">5 Reasons You Should Hire a Market Research Firm</a> </h2>			
 			
 			<p class="green-ques"> <small> August 17, 2020</small> </p>
@@ -92,8 +107,8 @@
 	 
 			 <a href="why-hire-a-market-research-firm.php" class="indus-section">Read More</a>
 				
-				
 			  <br>	<br>		
+	
 	
 	
 				<h2> <a href="Substantiation-Basics.php">Substantiation Basics</a> </h2>			

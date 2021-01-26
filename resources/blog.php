@@ -41,6 +41,7 @@
     <a href="../">
       <img src="../_img/research-america-logo-new2.png" class="main-header-logo">
     </a>
+    <a href="/" class="home_top">HOME</a>
     <a id="open-mobile-menu" href="#sidr">
       <img src="../_img/open-mobile-menu.png">
     </a>
@@ -85,10 +86,25 @@
 			
 			<br>
 
-<!-- title and link -->
+<h2><a href="brand-tracking-studies.php">How to Be Strategic When Planning Brand Tracking Studies</a></h2>			
+
+<p class="green-ques"> <small> January 26, 2021</small> </p> 
+
+<a href="brand-tracking-studies.php"><img src="/_img/brand-tracking-studies-thumb.jpg" class="blog" alt="brand tracking studies"></a>
+<p>Your brand is onr of your comanpy's more valuable assets, so it's imperative that you gather valuable insights needed to track, maintain, measure, and grow your brand. Read on to learn how to be strategic when planning brand tracking studies.
+ </p>
+ 
+<a href="brand-tracking-studies.php" class="indus-section">Read More</a>
+		  <br>	
+          <br>
+          <br>
+
+
+
+
+
 <h2><a href="customer-satisfaction-research.php">5 Ways Customer Satisfaction Research Can Drive Your Business Forward</a></h2>			
 
-<!-- date -->
 <p class="green-ques"> <small> January 22, 2021</small> </p> 
 
 <a href="customer-satisfaction-research.php"><img src="/_img/customer-satisfaction-research-thumb.png" class="blog" alt="customer satisfactopm research cam drive your business forward"></a>
