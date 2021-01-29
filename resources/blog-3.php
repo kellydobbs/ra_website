@@ -41,6 +41,7 @@
     <a href="../">
       <img src="../_img/research-america-logo-new2.png" class="main-header-logo">
     </a>
+    <a href="/" class="home_top">HOME</a>
     <a id="open-mobile-menu" href="#sidr">
       <img src="../_img/open-mobile-menu.png">
     </a>
@@ -72,6 +73,7 @@
 	<a href="#" class="scrollToTop">Scroll To Top</a>
 
 
+
 		<div class="inside">
 		
 		  <h1>RAI Review
@@ -82,6 +84,36 @@
 		<p>Sign up here to learn more about RAI</p>
 			<p><a href="/contact.php"><img src="/_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
 			<br>
+
+      <h2>  <a href="/resources/ten-tips-for-recruiting-hard-to-find-participants.php">10 Tips for Recruiting Hard to Find Participants</a> </h2>			
+		<p class="green-ques"> <small> March 10, 2020</small> </p>
+		<img src="../_img/ten-tips-for-recruiting..png" class="blog" alt="10 Tips for Recruiting Hard to Find Participants"/>
+		 <p> Without a doubt, recruiting the “right” participants is crucial to the success of any qualitative research project. Yet, any experienced researcher will tell you recruiting is one of the most difficult parts of the qualitative research process! 
+	      </p>
+		<p>	<a href="/resources/ten-tips-for-recruiting-hard-to-find-participants.php"  class="indus-section">Read More</a><br>			
+	<br>
+				
+					
+			
+			
+<h2>    <a href="/resources/qualitative-big-data-era.php">The Power of Qualitative in the Big Data Era</a> </h2>			
+		<p class="green-ques"> <small> February 11, 2020</small> </p>
+		<img src="/_img/qualitative-big-data-era.png" class="blog" alt="The Power of Qualitative in the Big Data Era"/>
+		 <p>Everyone is in love with data: Big Data, Little Data, Data Analytics - if it’s quantitative, marketers are willing to fund it. In fact, if you talk to some data zealots (and most newly-minted MBAs), you may come to believe there is no role for qualitative research anymore. </p>
+		<p>	<a href=/resources/qualitative-big-data-era.php  class="indus-section">Read More</a><br>			
+	<br>
+				
+			
+			
+
+	  <h2>    <a href="/resources/5-consumers-trends.php">5 Consumer Trends</a></h2>			
+		<p class="green-ques"> <small> January 28, 2020</small></p>
+		<img src="/_img/5Consumers-Trends.jpg" class="blog" alt="5 Consumer Trends - Market Research"/>
+		 <p>When marketers have the direction and confidence to focus their efforts on the moments of maximum influence, they stand a much better chance of reaching consumers in the right place at the right time and with the right message. If they can do that, they have a better chance of influencing shopper behavior. </p>
+		<p>	<a href=/resources/5-consumers-trends.php  class="indus-section">Read More</a><br>			
+	<br>
+
+
       
       <h2>     <a href="/resources/customer-centricity-communications.php">Customer Centric Communications</a></h2>
 		<p class="green-ques"> <small> December 16, 2019</small> </p>

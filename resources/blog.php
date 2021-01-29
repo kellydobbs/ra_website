@@ -86,6 +86,18 @@
 			
 			<br>
 
+
+<h2><a href="online-panel-research.php">3 Industries Where Online Panel Research Is a Must-Have</a></h2>			
+<p class="green-ques"> <small> January 28, 2021</small> </p> 
+<a href="online-panel-research.php"><img src="/_img/online-panel-research-thumb.jpg" class="blog" alt="online panel research is a must-have."></a>
+<p>Online panel research is opening new doors to businesses looking to gain market insights. Find out which 3 industrires absolutely must be using online market research panels for thier survival and success.</p>
+<a href="online-panel-research.php" class="indus-section">Read More</a>
+		  <br>	
+          <br>
+          <br>
+
+
+
 <h2><a href="brand-tracking-studies.php">How to Be Strategic When Planning Brand Tracking Studies</a></h2>			
 
 <p class="green-ques"> <small> January 26, 2021</small> </p> 
@@ -219,36 +231,7 @@
 	
 			
 			
-			
-				<br>
-			<h2> <a href="ad-claims-co-creation-process.php" alt="ad-claims-co-creation-process">8 Steps to Bullet Proof Ad Claims:
-			    The Ad Claims Co-Creation Process</a> </h2>			
-			
-		<p class="green-ques"> <small> September 8, 2020</small> </p>
-		
-		<img src="/_img/ad claims process.png" class="blog" alt="8 Steps to Bullet Proof Ad Claims:
-			    The Ad Claims Co-Creation Process">
-<p>The process of identifying claims involves many different parties, both internally and externally. Identifying claims for effective advertising requires the collaboration and coordination of Brand Management, R&D, Consumer Insights, Legal, and the Ad Agency or Creatives.  </p>
- 
-		 <a href="ad-claims-co-creation-process.php" class="indus-section">Read More</a>
-			
-			
-		  <br>	<br>		
 
-			<h2> <a href="3-market-research-bolsters.php" alt="3 Ways Market Research Can Bolster Your Marketing Creative">3 Ways Market Research Can Bolster Your Marketing Creative</a> </h2>			
-			
-		<p class="green-ques"> <small> August 25, 2020</small> </p>
-		
-		<img src="/_img/3-markert-research-bolsters.jpg" class="blog" alt="5 Reasons You Should Hire a Market Research Firm">
-<p>Market research plays an important role in gaining a better understanding of your company, what motivates your target audience and trends in your industry. Did you know it can also be vital to your advertising efforts?  </p>
- 
-		 <a href="3-market-research-bolsters.php" class="indus-section">Read More</a>
-			
-			
-		  <br>	<br>
-			
-
-		  
 		
 	
 <div class="pagination">
