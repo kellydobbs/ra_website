@@ -85,12 +85,24 @@
 			<p><a href="/contact.php"><img src="/_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
 			
 			<br>
+<h2><a href="retail-analysis.php">Retail Analysis: Which Trends Are Here to Stay?</a></h2>			
+<p class="green-ques"> <small> February 2, 2021</small> </p> 
+<a href="retail-analysis.php"><img src="/_img/retail-analysis-thumb.png" class="blog" alt="retail analysis trends"></a>
+<p>Deliberate and regular retail analysis provides reliable insights for a winning marketing mix. Here are three of the latest retail trends we see shaping the current and future retail markets.
+ </p>
+<a href="retail-analysis.php" class="indus-section">Read More</a>
+		  <br>	
+          <br>
+          <br>
+
+
+
 
 
 <h2><a href="online-panel-research.php">3 Industries Where Online Panel Research Is a Must-Have</a></h2>			
 <p class="green-ques"> <small> January 28, 2021</small> </p> 
 <a href="online-panel-research.php"><img src="/_img/online-panel-research-thumb.jpg" class="blog" alt="online panel research is a must-have."></a>
-<p>Online panel research is opening new doors to businesses looking to gain market insights. Find out which 3 industrires absolutely must be using online market research panels for thier survival and success.</p>
+<p>Online panel research is opening new doors to businesses looking to gain market insights. Find out which 3 industries absolutely must be using online market research panels for their survival and success.</p>
 <a href="online-panel-research.php" class="indus-section">Read More</a>
 		  <br>	
           <br>
@@ -103,7 +115,7 @@
 <p class="green-ques"> <small> January 26, 2021</small> </p> 
 
 <a href="brand-tracking-studies.php"><img src="/_img/brand-tracking-studies-thumb.jpg" class="blog" alt="brand tracking studies"></a>
-<p>Your brand is onr of your comanpy's more valuable assets, so it's imperative that you gather valuable insights needed to track, maintain, measure, and grow your brand. Read on to learn how to be strategic when planning brand tracking studies.
+<p>Your brand is one of your company's more valuable assets, so it's imperative that you gather valuable insights needed to track, maintain, measure, and grow your brand. Read on to learn how to be strategic when planning brand tracking studies.
  </p>
  
 <a href="brand-tracking-studies.php" class="indus-section">Read More</a>
@@ -121,7 +133,7 @@
 
 <a href="customer-satisfaction-research.php"><img src="/_img/customer-satisfaction-research-thumb.png" class="blog" alt="customer satisfactopm research cam drive your business forward"></a>
 
-<p> Customer satisfaction research should be the first measure considered when putting together a market research plan for your company.
+<p> Customer satisfaction research should be the first measure you consider when putting together a market research plan for your company.
  </p>
  
 <a href="customer-satisfaction-research.php" class="indus-section">Read More</a>
