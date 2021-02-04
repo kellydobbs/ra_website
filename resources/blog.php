@@ -83,8 +83,24 @@
 			<h2>Like Our Blog Posts?</h2>
 		<p>Sign up here to learn more about RAI</p>
 			<p><a href="/contact.php"><img src="/_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
-			
 			<br>
+
+
+
+<h2><a href="tourism-market-research.php">Tourism Market Research: When Will Traveler Confidence Return?</a></h2>			
+<p class="green-ques"><small>February 4, 2021</small> </p> 
+<a href="tourism-market-research.php"><img src="/_img/tourism-market-research-thumb.png" class="blog" alt="retail analysis trends"></a>
+<p> Tourism market research offers insights that enable tourism companies to better anticipate when travelers will get back on the roads and into the skies.
+ </p>
+<a href="tourism-market-research.php" class="indus-section">Read More</a>
+		  <br>	
+          <br>
+          <br>
+
+
+
+
+
 <h2><a href="retail-analysis.php">Retail Analysis: Which Trends Are Here to Stay?</a></h2>			
 <p class="green-ques"> <small> February 2, 2021</small> </p> 
 <a href="retail-analysis.php"><img src="/_img/retail-analysis-thumb.png" class="blog" alt="retail analysis trends"></a>
