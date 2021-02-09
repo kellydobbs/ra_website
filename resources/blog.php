@@ -87,9 +87,9 @@
 
 
 
-<h2><a href="tourism-market-research.php">Tourism Market Research: When Will Traveler Confidence Return?</a></h2>			
+      <h2><a href="tourism-market-research.php">Tourism Market Research: When Will Traveler Confidence Return?</a></h2>			
 <p class="green-ques"><small>February 4, 2021</small> </p> 
-<a href="tourism-market-research.php"><img src="/_img/tourism-market-research-thumb.png" class="blog" alt="retail analysis trends"></a>
+<a href="tourism-market-research.php"><img src="/_img/tourism-market-research-thumb.png" class="blog" alt="travel market research"></a>
 <p> Tourism market research offers insights that enable tourism companies to better anticipate when travelers will get back on the roads and into the skies.
  </p>
 <a href="tourism-market-research.php" class="indus-section">Read More</a>
@@ -103,13 +103,14 @@
 
 <h2><a href="retail-analysis.php">Retail Analysis: Which Trends Are Here to Stay?</a></h2>			
 <p class="green-ques"> <small> February 2, 2021</small> </p> 
-<a href="retail-analysis.php"><img src="/_img/retail-analysis-thumb.png" class="blog" alt="retail analysis trends"></a>
+<a href="retail-analysis.php"><img src="/_img/retail-analysis-thumb.jpg" class="blog" alt="retail analysis trends"></a>
 <p>Deliberate and regular retail analysis provides reliable insights for a winning marketing mix. Here are three of the latest retail trends we see shaping the current and future retail markets.
  </p>
 <a href="retail-analysis.php" class="indus-section">Read More</a>
 		  <br>	
           <br>
           <br>
+
 
 
 
