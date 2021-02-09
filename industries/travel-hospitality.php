@@ -90,6 +90,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
 	<h1>Tourism Market Research</h1>
 
+<p>Tourism market research provides insight into market and consumer demand. For the tourism industry, in particular, the pandemic effect seemingly looms large. Tourism market research offers insight into the tourism industry, enabling companies to better anticipate when travelers will get back on the roads and into the skies. Conducting tourism market research provides a company with exposure, heightening its visibility with the very consumers it hopes to attract and satisfy with relevant, reliable offerings. Below is an example of how we helped an airline uncover optimization opportunities to drive advertising effectiveness.
+</p>
+<br>
+
 		<h2>Uncovering optimization
             opportunities to drive
 		  advertising effectiveness</h2>
