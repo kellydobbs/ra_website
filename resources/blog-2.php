@@ -86,6 +86,45 @@
 			<p><a href="/contact.php"><img src="/_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
 
 
+		<h2><a href="brand-loyalty-research.php">The Best of Brand Loyalty Research: Are You Friends With Consumers</a></h2>			
+		<p class="green-ques"> <small> October 21, 2020</small> </p> 
+		<a href="brand-loyalty-research.php"><img src="/_img/brand-loyalty-research-thumbnail.png" class="blog" alt="conducting brand loyalty research"></a>
+		<p>Developing brand loyalty should be a huge part of any business’s long-term strategy but, it can be difficult to measure with precision. Explore these brand loyalty research techniques that companies can use to determine how well they connect with consumers.
+		</p>
+		<a href="brand-loyalty-research.php" class="indus-section">Read More</a>
+				<br>	
+				<br>
+				<br>
+
+
+
+		<h2><a href="market-research-for-startups.php">Market Research for Startups: 5 Rookie Mistakes</a></h2>			
+		<p class="green-ques"> <small> October 15, 2020</small> </p> 
+		<a href="market-research-for-startups.php"><img src="/_img/startup-small.png" class="blog" alt="Conducting Market Research at a Startups"></a>
+		<p>While it is important for new companies to engage in market research, it’s crucial to avoid some rookie mistakes that could spoil the entire effort. To that end, here are five big mistakes that can significantly affect market research for startups. Learn them now so you can avoid them down the line.
+		</p>
+		<a href="market-research-for-startups.php" class="indus-section">Read More</a>
+				<br>	
+				<br>
+				<br>
+          
+          
+
+		<h2> <a href="winning-with-superiority-claim.php" alt="Regional Coffee Manufacturer Wins with Product Superiority Claim ">Regional Coffee Manufacturer Wins with Product Superiority Claim
+</a> </h2>				
+		<p class="green-ques"> <small> September 22, 2020</small> </p>
+		<img src="/_img/RTD.png" class="blog" alt="Regional Coffee Manufacturer Wins with Product Superiority Claim">
+<p>Are you one of the nearly 64% of American adults who drink coffee daily (according to the National Coffee Association)? If so, you might enjoy this case study about how Research America employed the Claims Co-Creation Workshop process to help a regional coffee manufacturer expand in the ready-to-drink (RTD) coffee category.
+ </p>
+		 <a href="winning-with-superiority-claim.php" class="indus-section" alt="Regional Coffee Manufacturer Wins with Product Superiority Claim">Read More</a>
+		  <br><br>		
+
+
+		  
+
+
+
+
 			
 <br>
 			<h2> <a href="ad-claims-co-creation-process.php" alt="ad-claims-co-creation-process">8 Steps to Bullet Proof Ad Claims:
@@ -169,33 +208,6 @@
 		<img src="/_img/gain-better-UX-insights.jpg" class="blog" alt="Gain Better UX Insights Using these 4 Touchpoints">
 		 <p> While it's helpful to get insights to guide the process early, there is something to learn at all UX Design touchpoints. Here is the approach RAI recommends to maximize your UX Research.  gain-better-UX-insights.jpg</p>
 		 <a href="../resources/gain-better-UX-insights.php" class="indus-section">Read More</a><br>	<br>	
-
-
-
-		<h2><a href="../resources/Improve-UX-Research.php">Improve UX Research with a Holistic<br> Approach:  6 Key Questions to Ask</a></h2>			
-		<p class="green-ques"> <small> May 19, 2020</small> </p>
-		<img src="/_img/UX-Research.jpg" class="blog" alt="Improve UX Research with a Holistic Approach">
-		<p> Wondering how consumers think and interact with your digital applications and products?
-Steve Jobs once said, “If the user is having a problem, it’s our problem.” UX research analyzes users’ experiences to identify key insights and potential issues that will assist in product innovation, improve product performance and enhance brand credibility, ultimately resulting in consumer growth.</p>
-			 
-		 <a href="../resources/Improve-UX-Research.php" class="indus-section">Read More</a><br>	<br>	
-		  
-			 
-
-		<h2><a href="../resources/choosing-between-online-and-in-person-qualitative.php">Choosing Between Online and In-Person <br>Qualitative: Pros and Cons</a></h2>			
-		<p class="green-ques"> <small> April 24, 2020</small> </p>
-		<img src="/_img/in-person-qualitative.jpg" class="blog" alt="pros and cons between online and in-person qualitative">
-		 <p> Qualitative research seems to be undergoing a bit of a renaissance lately. Qualitative research is the best tool for getting a deep understanding of your consumers’ reasons, opinions, motivations.</p>
-		 <a href="../resources/choosing-between-online-and-in-person-qualitative.php" class="indus-section">Read More</a><br>	<br>	<br>	
-		 
-
-			
-	<h2>  <a href="../resources/qualitative-techniques-you-might-overlook.php">Qualitative Techniques You Might be Overlooking</a> </h2>			
-		<p class="green-ques"> <small> March 24, 2020</small> </p>
-		<img src="/_img/over-looking.png" class="blog" alt="qualitative techniques you might be overlooking">
-		 <p> In qualitative research (and marketing research generally), quality is delivered when you have the right respondents, evaluating something in the right context or moment, with the right questions. </p>
-		 <a href="../resources/qualitative-techniques-you-might-overlook.php" class="indus-section">Read More</a><br><br>			
-		 
 							
 			
 <br>

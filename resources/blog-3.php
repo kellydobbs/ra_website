@@ -85,6 +85,35 @@
 			<p><a href="/contact.php"><img src="/_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
 			<br>
 
+
+
+			<h2><a href="../resources/Improve-UX-Research.php">Improve UX Research with a Holistic<br> Approach:  6 Key Questions to Ask</a></h2>			
+		<p class="green-ques"> <small> May 19, 2020</small> </p>
+		<img src="/_img/UX-Research.jpg" class="blog" alt="Improve UX Research with a Holistic Approach">
+		<p> Wondering how consumers think and interact with your digital applications and products?
+Steve Jobs once said, “If the user is having a problem, it’s our problem.” UX research analyzes users’ experiences to identify key insights and potential issues that will assist in product innovation, improve product performance and enhance brand credibility, ultimately resulting in consumer growth.</p>
+			 
+		 <a href="../resources/Improve-UX-Research.php" class="indus-section">Read More</a><br>	<br>	
+		  
+			 
+
+		<h2><a href="../resources/choosing-between-online-and-in-person-qualitative.php">Choosing Between Online and In-Person <br>Qualitative: Pros and Cons</a></h2>			
+		<p class="green-ques"> <small> April 24, 2020</small> </p>
+		<img src="/_img/in-person-qualitative.jpg" class="blog" alt="pros and cons between online and in-person qualitative">
+		 <p> Qualitative research seems to be undergoing a bit of a renaissance lately. Qualitative research is the best tool for getting a deep understanding of your consumers’ reasons, opinions, motivations.</p>
+		 <a href="../resources/choosing-between-online-and-in-person-qualitative.php" class="indus-section">Read More</a><br>	<br>	<br>	
+		 
+
+			
+	<h2>  <a href="../resources/qualitative-techniques-you-might-overlook.php">Qualitative Techniques You Might be Overlooking</a> </h2>			
+		<p class="green-ques"> <small> March 24, 2020</small> </p>
+		<img src="/_img/over-looking.png" class="blog" alt="qualitative techniques you might be overlooking">
+		 <p> In qualitative research (and marketing research generally), quality is delivered when you have the right respondents, evaluating something in the right context or moment, with the right questions. </p>
+		 <a href="../resources/qualitative-techniques-you-might-overlook.php" class="indus-section">Read More</a><br><br>			
+		 
+
+		 
+
       <h2>  <a href="/resources/ten-tips-for-recruiting-hard-to-find-participants.php">10 Tips for Recruiting Hard to Find Participants</a> </h2>			
 		<p class="green-ques"> <small> March 10, 2020</small> </p>
 		<img src="../_img/ten-tips-for-recruiting..png" class="blog" alt="10 Tips for Recruiting Hard to Find Participants"/>
