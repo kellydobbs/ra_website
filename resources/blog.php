@@ -86,6 +86,17 @@
 			<br>
 
 
+<h2><a href="virtual-research.php">Virtual Research: A Good Idea or a Bad Experiment?</a></h2>			
+<p class="green-ques"> <small> February 18, 2021</small> </p> 
+<a href="virtual-research.php"><img src="/_img/virtual-research-thumb.jpg" class="blog" alt="virtual research"></a>
+<p>Technology is creating new avenues for gaining consumer insights through virtual research. Here are 3 reasons why virtual market research is a gamechanger.</p>
+ <a href="virtual-research.php" class="indus-section">Read More</a>
+		  <br>	
+      <br>
+      <br>
+
+
+
 <h2><a href="marketing-insights-examples.php">3 Surprising Marketing Insights Examples</a></h2>			
 <p class="green-ques"> <small> February 11, 2021</small> </p> 
 <a href="marketing-insights-examples.php"><img src="/_img/marketing-insights-examples-thumb.png" class="blog" alt="marketing insights examples"></a>
