@@ -75,18 +75,27 @@
 
 		<div class="inside">
 		
-		  <h1>RAI Review</h1>
+		  <h1>Research America Blog</h1>
 			
 			
 		
 			
 			<h2>Like Our Blog Posts?</h2>
-		<p>Sign up here to learn more about RAI</p>
+		<p>Sign up below!</p>
 			<p><a href="/contact.php"><img src="/_img/learn-more-1.png" class="learn-more-button" alt="computer assisted web interviewing"/></a></p>
 			<br>
 
 
-<h2><a href="virtual-research.php">Virtual Research: A Good Idea or a Bad Experiment?</a></h2>			
+      <h2><a href="b2b-market-research.php">A 5-Minute Guide to Understanding B2B Market Research</a></h2>			
+<p class="green-ques"> <small> February 25, 2021</small> </p> 
+<a href="b2b-market-research.php"><img src="/_img/b2b-market-research-thumb.jpg" class="blog" alt="b2b market research"></a>
+<p>Want to understand B2B Market Research? Take five minutes and read our guide to get up to speed.</p>
+ <a href="b2b-market-research.php" class="indus-section">Read More</a>
+		  <br>	
+      <br>
+      <br>
+      
+      <h2><a href="virtual-research.php">Virtual Research: A Good Idea or a Bad Experiment?</a></h2>			
 <p class="green-ques"> <small> February 18, 2021</small> </p> 
 <a href="virtual-research.php"><img src="/_img/virtual-research-thumb.jpg" class="blog" alt="virtual research"></a>
 <p>Technology is creating new avenues for gaining consumer insights through virtual research. Here are 3 reasons why virtual market research is a gamechanger.</p>
@@ -95,11 +104,9 @@
       <br>
       <br>
 
-
-
 <h2><a href="marketing-insights-examples.php">3 Surprising Marketing Insights Examples</a></h2>			
 <p class="green-ques"> <small> February 11, 2021</small> </p> 
-<a href="marketing-insights-examples.php"><img src="/_img/marketing-insights-examples-thumb.png" class="blog" alt="marketing insights examples"></a>
+<a href="marketing-insights-examples.php"><img src="/_img/marketing-insights-examples-thumb.jpg" class="blog" alt="marketing insights examples"></a>
 <p>Check out these three surprising marketing insights examples from some of the most well-known businesses in the world.
  </p>
 <a href="marketing-insights-examples.php" class="indus-section">Read More</a>
@@ -192,7 +199,7 @@
 
 <h2><a href="market-research-proposal.php">How to Write a Winning Market Research Proposal</a></h2>			
 <p class="green-ques"> <small> January 12, 2021</small> </p> 
-<a href="market-research-proposal.php"><img src="/_img/market-research-proposal-thumb.png" class="blog" alt="writting a market research proposal"></a>
+<a href="market-research-proposal.php"><img src="/_img/market-research-proposal-thumb.jpg" class="blog" alt="writting a market research proposal"></a>
 <p>A market research proposal is the document a company uses to map out its future. It unites company stakeholders in joint discovery of information so that everyone knows who and what really matters for an information gathering project. This is how to write a winning proposal that will get your whole team onboard.
  </p>
 <a href="market-research-proposal.php" class="indus-section">Read More</a>
